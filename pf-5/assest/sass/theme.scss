@@ -1,0 +1,23 @@
+@import 'bootstrap/assets/stylesheets/bootstrap';
+@import 'base/variable';
+@import 'modules/mixin';
+@import 'base/font';
+@import 'base/reset';
+@import 'modules/common';
+
+/* main styles */
+
+@import 'partials/flexslider';
+@import 'partials/header';
+@import 'partials/home';
+@import 'partials/about'; 
+@import 'partials/portfolio';
+@import 'partials/shop';
+@import 'partials/contact';
+@import 'partials/footer';
+ 
+
+
+/* responsive styles */
+@import 'partials/mobile';
+@import 'partials/responsive';

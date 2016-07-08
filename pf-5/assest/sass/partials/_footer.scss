@@ -1,0 +1,24 @@
+
+/*======================================================================
+Footer Section
+========================================================================*/
+#footer {
+	background: $lighten;
+    border-top: 1px solid;
+    @extend .active-bordercolor-top;
+    color: darken(saturate(adjust-hue($lighten, 0.0000), 0.0000), 66.6667);
+    font-size: 14px;
+    height: 150px;
+    @include padding(12px, 0, 12px, 0);
+     @include position(relative);
+     @extend .text-center;
+    width: 100%;
+	span {
+		@extend .block;
+		small {
+			font-size:12px;
+			padding-top:5px;
+			@extend .block;
+		}
+	}
+}

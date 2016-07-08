@@ -1,0 +1,218 @@
+/* mobile css */
+
+.mobileLandingSection{
+	@include position(relative);
+	@include padding(24px, 28px, 24px, 28px);
+	@include margin(108px, auto, 0, auto);
+	display: none;
+
+	.innerSection {
+			border:1px solid $white;
+			height: calc(100vh - 156px);
+			min-height: 442px;
+			@include linearGradient(rgba(0,0,0,0.9),rgba(0,0,0,1));
+			text-align: center;
+			position: relative;
+			z-index: 10;
+			text-align:center;
+			.profilePic {
+				margin-top:-15px;
+			}
+
+	}
+}
+
+.profilePic {
+    display: inline-block;
+    border: 5px solid #fff;
+    border-radius: 50%;
+}
+
+
+.home{
+	.toggleMenuContainer {
+		.fa {
+			color:$lighten;
+		}
+	}
+
+	.toggleMenuContainer {
+		background-color: transparent;
+		border: none;
+		height: auto;
+		overflow: visible;
+		position: absolute;
+		width: 100%;
+		left: 0px;
+		top: 154px;
+		margin: 0;
+		padding:0px 29px;
+		z-index: 99;
+		margin-top:20px;
+	}
+	
+	.socialIcons {
+		width: 156px;
+		margin: 0px 0px 0px -78px;
+		bottom: 50px;
+		left: 50%;
+		position: absolute;
+		z-index: 99;
+		li {
+			float: left;
+			margin:0px 2px;
+			@extend .active-bg;
+
+			a {
+				width: 30px;
+				height: 30px;
+				display: block;
+				text-align: center;
+				@included rounded(50%);
+				padding: 7px 0 0 4px;
+				@extend .activeopacity_5;
+				color: $lighten;
+				 
+				.fa {
+					&:hover {
+						@extend .activetext;
+					}
+					&:focus {
+						@extend .activetext;
+					}
+					&:active {
+						@extend .activetext;
+					}
+				}
+			}
+		}
+	}
+
+	.innerShadow {
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0px;
+			bottom: 0px;
+			left: 0px;
+			right: 0px;
+			@include linearGradient(rgba(255,255,255,0),rgba(0,0,0,1));
+			z-index: 11;
+			pointer-events: none;
+	}
+}
+
+.socialIcons {
+	li{
+		 
+		a{
+			@extend .activeopacity_5;
+			border-radius:50%;
+		}
+	}
+}
+
+.toggleMenuContainer {
+		background-color:rgba($darken,0.9);
+		border: none;
+		height: auto;
+		overflow: visible;
+		position: fixed;
+		width: 100%;
+		left: 0px;
+		top: 86px;
+		margin: 0;
+		padding:0px 29px;
+		z-index: 99;
+		margin-top:20px;
+		display: none;
+
+		.toggleMenu { 
+			display:block; 
+			width:40px; 
+			height:40px; 
+			cursor:pointer;  
+			margin:0px auto;
+			.fa.fa-close {
+				@extend .activetext;
+				font-size: 24px;
+				padding: 8px 0px 0px 11px;
+			}
+
+			.fa {
+				font-size: 40px;
+				color: $grey !important;
+				padding-left: 3px;
+				&:hover {
+					@extend .activetext;
+				}
+			}
+			.fa.active {
+				@extend .activetext;
+			}
+			.currentPage {
+				font-size:18px;
+				line-height:1;
+				position:static;
+				margin:0px;
+				text-align:center;
+				color: lighten(saturate(adjust-hue(#000000, 0.0000), 0.0000), 50.1961);
+				padding-bottom:5px;
+			}
+		}
+}
+
+.toggleMenuContainer {
+	.nav  {
+		margin:0px 0px 10px;
+		top:0px;
+		transition: 0s;
+		float: none;
+		opacity:1;
+		height: auto;
+		width:100%;
+		position: static;
+		display: none;
+
+		.navCollapsed{
+			display: none;
+		}
+
+		> ul {
+		margin:0px;
+		display: block;
+
+			> li {
+				transition: 0s;
+				display:block;
+				text-align: center;
+				height: auto;
+				&:nth-child(4){
+					margin-left: 0;
+				}
+				> a {
+					font-size:18px;
+					line-height:27px;
+					padding:0px;
+					color:$lighten !important;
+					font-family: $font_1;
+					display:block;
+					.genralScreen {
+						display:none;
+					}
+					&.current{
+						@extend .active-bg;
+					}
+					.landingPageScreen {
+						display:block;
+					}
+				}
+				> ul {
+					transition: 0s;
+					display:none;
+				}
+			}
+		}
+	}
+}
+

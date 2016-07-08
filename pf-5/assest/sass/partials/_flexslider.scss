@@ -1,0 +1,68 @@
+.flexsliderInner {
+    margin: 48px 0; 
+	 
+    @extend .active-bordercolor-top;
+}
+.flex-viewport {
+    max-height: 2000px;
+    @include transition(all 1s ease);
+}
+.flex-control-nav {
+
+    @include position(absolute);
+    bottom: 0   ;
+    top: auto;
+    text-align: center;
+    width: 100%;
+}
+.flex-control-nav li {
+    display: inline-block;
+    margin: 0 6px;
+}
+.flex-control-paging li a {
+    @extend .active-bg;
+    border: 2px solid $black;
+    border-radius: 50%;
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    text-indent: -9999px;
+    width: 16px;
+}
+
+.flex-control-paging li a.flex-active {
+    @extend .active-bordercolor
+}
+
+.flex-direction-nav a {
+    color: rgba($white, 0.8);
+    cursor: pointer;
+    display: block;
+    height: 164px;
+    margin: -82px 0 0;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -100%;
+    top: 50%;
+    transition: all 0.3s ease-in-out 0s;
+    width: 72px;
+    z-index: 10;
+}
+.flex-direction-nav a::before {
+    color: lighten(saturate(adjust-hue($black, 0.0000), 0.0000), 23.5294);
+    content: "\f104";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 200px;
+    font-weight: bold;
+    padding-left: 72px;
+}
+.flex-direction-nav a.flex-next::before {
+	content: '\f105'
+}
+.flex-direction-nav .flex-prev {
+    left: 72px;
+}
+.flex-direction-nav .flex-next {
+    right: 72px;
+}

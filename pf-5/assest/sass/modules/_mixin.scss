@@ -1,0 +1,254 @@
+/* mixins */
+
+@mixin box_size($sizing){
+	-webkit-box-sizing: $sizing;
+	-moz-box-sizing: $sizing;
+	box-sizing: $sizing;
+}
+
+@mixin padding($top, $right, $bottom, $left){
+	padding-top: $top;
+	padding-bottom: $bottom;
+	padding-left: $left;
+	padding-right: $right;
+}
+
+@mixin margin($top, $right, $bottom, $left){
+	margin-top: $top;
+	margin-bottom: $bottom;
+	margin-left: $left;
+	margin-right: $right;
+}
+
+@mixin transition($transition...){
+	-webkit-transition: $transition;
+	-moz-transition: $transition;
+	-ms-transition: $transition;
+	-o-transition: $transition;
+	transition: $transition;
+}
+
+@mixin transform($transform){
+	-webkit-transform: $transform;
+	-moz-transform: $transform;
+	-ms-transform: $transform;
+	-o-transform: $transform;
+	transform: $transform;
+}
+
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+@mixin text-field {
+ display: block;
+  outline: none;
+  text-decoration: none;
+  font: 18px/100% $font_7;
+  padding: .5em;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
+  @include rounded();
+  @include box-shadow(0, 1px, 2px, rgba(0, 0, 0, 0.2));
+}
+ 
+@mixin rounded($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin gradient($from, $to) {
+  background: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
+  background: -moz-linear-gradient(top,  $from, $to);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$from}', endColorstr='#{$to}');
+}
+
+
+@mixin theme($name, $color) {
+  .#{$name} {
+    $active-color: $color;
+
+    .activetext{
+    	color : $active-color !important;
+    }
+
+    .active-bg{
+    	background-color : $active-color !important;
+    }
+
+    .active-bordercolor{
+    	border-color: $active-color !important;
+    
+	    &-left{
+	    	border-left-color: $active-color !important;
+	    }
+	    &-right{
+	    	border-right-color: $active-color !important;
+	    }
+	    &-top{
+	    	border-top-color: $active-color !important;
+	    }
+	    &-bottom{
+	    	border-bottom-color: $active-color !important;
+
+	    	&-op5{
+	    		border-bottom-color: rgba($active-color, 0.5) !important;
+	    	}
+	    	&-op6{
+				border-bottom-color: rgba($active-color, 0.6) !important;
+	    	}
+	    }
+
+	    
+    }
+    	.activeopacity_0{
+	    	background-color: rgba($active-color, 0)!important;
+	    }
+    	.activeopacity_1{
+	    	background-color: rgba($active-color, 0.1)!important;
+	    }
+	    .activeopacity_2{
+	    	background-color: rgba($active-color, 0.2)!important;
+	    }
+	    .activeopacity_3{
+	    	background-color: rgba($active-color, 0.3)!important;
+	    }
+	    .activeopacity_4{
+	    	background-color: rgba($active-color, 0.4)!important;
+	    }
+	    .activeopacity_5{
+	    	background-color: rgba($active-color, 0.5)!important;
+	    }
+	    .activeopacity_6{
+	    	background-color: rgba($active-color, 0.6)!important;
+	    }
+	    .activeopacity_7{
+	    	background-color: rgba($active-color, 0.7)!important;
+	    }
+	    .activeopacity_8{
+	    	background-color: rgba($active-color, 0.8)!important;
+	    }
+	    .activeopacity_9{
+	    	background-color: rgba($active-color, 0.9)!important;
+	    }
+	    .activeopacity_10{
+	    	background-color: rgba($active-color, 1)!important;
+	    }
+	    .activeopacity_11{
+	    	background-color: rgba($active-color, 0.15)!important;
+	    }
+	    .activeopacity_12{
+	    	background-color: rgba($active-color, 0.25)!important;
+	    }
+	    .activeopacity_13{
+	    	background-color: rgba($active-color, 0.35)!important;
+	    }
+	    .activeopacity_14{
+	    	background-color: rgba($active-color, 0.45)!important;
+	    }
+	    .activeopacity_15{
+	    	background-color: rgba($active-color, 0.55)!important;
+	    }
+	    .activeopacity_16{
+	    	background-color: rgba($active-color, 0.65)!important;
+	    }
+	    .activeopacity_17{
+	    	background-color: rgba($active-color, 0.75)!important;
+	    }
+	    .activeopacity_18{
+	    	background-color: rgba($active-color, 0.85)!important;
+	    }
+	    .activeopacity_19{
+	    	background-color: rgba($active-color, 0.95)!important;
+	    }
+	     
+  }
+}
+
+@mixin position($position_val){
+	@if $position_val == 'absolute'{
+		top: 0;
+		position: $position_val;
+		left: 0;
+	}
+
+	@else if $position_val == 'fixed'{
+		top:0;
+		width: 100%;
+		left:0;
+		position: $position_val;
+	}
+
+	@else{
+		position: relative;
+	}
+}
+
+@mixin background($imgpath,$position, $repeat) {
+   
+    background-image: url($imgpath);
+    background-position: $position;
+    background-repeat: $repeat;
+}
+
+@mixin keyframes($animation-name) {
+    @-webkit-keyframes #{$animation-name} {
+        @content;
+    }
+    @-moz-keyframes #{$animation-name} {
+        @content;
+    }  
+    @-ms-keyframes #{$animation-name} {
+        @content;
+    }
+    @-o-keyframes #{$animation-name} {
+        @content;
+    }  
+    @keyframes #{$animation-name} {
+        @content;
+    }
+}
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};      
+}
+
+@mixin columnCount($count) {
+  -webkit-columns:  $count;
+  -moz-columns:     $count;
+  -ms-columns:      $count;
+  -o-columns:       $count;
+  columns:          $count;
+}
+
+
+@mixin columnGap($gap) {
+  -webkit-column-gap:  $gap;
+  -moz-column-gap:     $gap;
+  -ms-column-gap:      $gap;
+  -o-column-gap:       $gap;
+  column-gap:          $gap;
+}
+
+
+@mixin linearGradient($start-colour, $end-colour) {
+    background-color: $start-colour;
+    background-image: -webkit-gradient(linear, left top, left bottom, from($start-colour), to($end-colour));
+    background-image: -webkit-linear-gradient(top, $start-colour, $end-colour);
+    background-image:    -moz-linear-gradient(top, $start-colour, $end-colour);
+    background-image:     -ms-linear-gradient(top, $start-colour, $end-colour);
+    background-image:      -o-linear-gradient(top, $start-colour, $end-colour);
+    background-image:         linear-gradient(top, $start-colour, $end-colour);
+    filter:            progid:DXImageTransform.Microsoft.gradient(start-colourStr='#{$start-colour}', end-colourStr='#{$end-colour}');
+}

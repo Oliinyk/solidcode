@@ -1,0 +1,118 @@
+.shopSearchBar {
+	background:rgba($lighten,0.7);
+	display:block;
+	height:70px;
+	margin:96px auto 0;
+	padding:5px;
+	position:relative;
+	width:100%;
+	max-width:798px;
+	input {
+		width:calc(100% - 193px);
+		height:60px;
+		border:none;
+		padding:23px 20px;
+		font-size:14px;
+		color:lighten(saturate(adjust-hue(#000000, 0.0000), 0.0000), 20.0000);
+		display:block;
+		float:left;
+	}
+	button {
+		font-size:34px;
+		line-height:60px;
+		height:60px;
+		width:75px;
+		display:block;
+		float:left;
+		min-width: 20px;
+		i {
+			padding-left:9px;
+		}
+	}
+	span {
+		font-family:$secondryFontStack;
+		font-size:$size_1;
+		line-height:36px;
+		width:118px;
+		display:block;
+		float:left;
+		@include padding(12px, 10px,12px, 10px);
+		
+		color:lighten(saturate(adjust-hue($darken, 0.0000), 0.0000), 34.9020);
+		i {
+			float:right;
+			display:block;
+			margin-top:11px;
+			z-index: 1;
+		}
+	}
+}
+
+/*Shop Page Gallery*/
+.shopGalleryContainer {
+	width:100%;
+	@include position(relative);
+	overflow:hidden;
+	background-color:$lighten;
+	@include padding(15px,15px, 15px, 15px);
+	@include margin(48px,0, 0, 0);
+}
+.justified-gallery {
+	width:100%;
+	@include position(relative);
+	overflow: hidden;
+	> figure {
+		@include position(absolute);
+		display:inline-block;
+		overflow:hidden;
+		opacity:0;
+		 > a {
+			> img {
+				@include position(absolute);
+				top:50%;
+				left:50%;
+				margin:0;
+				padding:0;
+				border:0;
+			}
+		}
+		figcaption.caption {
+			display:none;
+			@include position(absolute);
+			top: auto;
+			bottom:0px;
+		 
+			right:0;
+			padding:5px;
+			z-index:999;
+			width:100%;
+			font-size:11px;
+			line-height:35px;
+			@extend .activeopacity_5;
+			a {
+				float:left;
+				padding:0px 5px;
+				color:$lighten;
+			}
+		}
+		a {
+			display:block;
+			ovefflow:hidden;
+			max-height:100%;
+		}
+		img {
+			@include transition(all ease-in 0.3s);
+			backface-visibility: hidden;
+			display:block;
+			width: 100%;
+		}
+		&:hover {
+			img {
+				@include transform(scale(1.1));
+			}
+			figcaption {
+				bottom:0px;
+			}
+		}
+	}
+}

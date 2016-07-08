@@ -1,0 +1,224 @@
+.flexslider{
+	@include position($relative);
+	width: 100%;
+	height: 100%;
+
+	li{
+		top: 0;
+		left: 0;
+	}
+}
+
+#content{
+	position: relative;
+	width: 100%;
+	@extend .globalTransition;
+}
+
+.homeGallery {
+	width:100%;
+	@include position(absolute);
+	bottom:0px;
+	top: auto;
+	right:0px;
+	background-color:rgba($white,0.35);
+	border-top:1px solid rgba($white,0.4);
+	padding-top:33px;
+	z-index:100;
+	height:315px;
+	
+	.container {
+		padding:0px;
+	}
+	.thumbWrapper {
+		width:calc(25% - 30px);
+		float: left;
+ 
+		position: relative;
+		top:0px;
+		margin:0px 15px;
+		 
+	 
+	} 
+
+
+}
+
+
+.item-img-container{
+
+	border: 9px solid rgba($white, 0.5);
+    display: block;
+    position: relative;
+    @include transition( top 1.5s ease);
+    top: 0;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+    max-width: 282px;
+
+    img{
+    	display: block;
+    	margin: auto;
+    }
+
+    .roll {
+	    @include position($absolute);
+	    width: 86%;
+	    left: 7%;
+	    height: 100%;
+	    
+	    z-index: 1;
+	     @include transition(all 0s 0.4s linear);
+	    
+	    .left {
+		  @include position($absolute);
+		        width: 100%;
+		    height: 100%;
+		    
+		    opacity: 0;
+		    perspective: 1000px;
+		    -webkit-perspective: 1000px;
+		    @include transition(opacity 0s 0.4s linear);
+		    float: left;
+
+		    div {
+			    
+			     opacity: 0.9;
+			    -webkit-transform: rotateY(90deg);
+			    -webkit-transform-origin: right center;
+			     @include transition(rotateY(90deg));
+			    transform-origin: right center;
+			    @include transition(all 0.3s 0.2s ease-out);
+			    width: 50%;
+			    height: 100%;
+			     
+			    @include position($absolute);
+			    @extend .active-bg;
+
+			}
+		    
+		}
+
+		.right {
+		   @include position($absolute);
+		       width: 100%;
+		    height: 100%;
+		     
+		    opacity: 0;
+		    perspective: 1000px;
+		    perspective-origin: right;
+		    -webkit-perspective: 1000px;
+		    -webkit-perspective-origin: right;
+		    @include transition(opacity 0s 0.4s linear);
+		    float: right;
+
+		    div {
+		    @include position($absolute);
+			    right: 0;
+			    opacity: 0.9;
+			    -webkit-transform: rotateY(75deg);
+			    -webkit-transform-origin: left center;
+			    transform: rotateY(-75deg);
+			    transform-origin: left center;
+			    @include transition(all 0.3s 0.2s ease-out);
+			      width: 50%;
+   				 height: 100%;
+   				 left: auto;
+			    
+			  
+			  @extend .active-bg;
+			    
+			}
+		}
+
+		.img-overlay-content {
+		   @extend .table;
+		    height: 100%;
+		    opacity: 0;
+		    outline: 10px solid rgba($white, 0.5);
+		    @include padding(48px, 30px,48px, 30px);
+		     @extend .text-center;
+		     @include transition(opacity 0.5s 0.4s linear);
+		    width: 100%;
+		}
+
+		.info {
+		    @include position(relative);
+		    display: table-cell;
+		    vertical-align: top;
+		    width: 100%;
+		    top: 18%;
+		    text-align: center;
+
+		    h3 {
+			    @include position(relative);
+			    margin: 0 auto;
+			    opacity: 0;
+			    width: 80%;
+			    @extend .text-center;
+			    font-weight: normal;
+			    color: $white;
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+			   
+			   @include transition(opacity 0.2s ease-out, margin-top 0.2s ease-out);
+			    font-size: $size_7;
+			    text-shadow: 1px 1px 2px rgba($black ,.5);
+			}
+
+			span {
+			    color: $white;
+			   @extend .block;
+			    opacity: 0;
+			    padding-top: 16px;
+			    @include transition(opacity 0.2s ease-out 0s);
+			}
+		}
+	}
+
+&:hover{
+	position: relative;
+    top: -50px;
+    .roll {
+	    height: 129%;
+	    top: -16%;
+	    @include transition(all 0s linear);
+
+	   	.left, .right{
+	   		opacity: 1;
+
+	   		@include transition(opacity 0s 0.3s linear);
+
+	   		div{
+	   			transform: rotateY(0deg);
+	   			@include transition(all 0.3s 0.3s linear);
+	   			 background: $active-color;
+	   			 opacity: 0.7;
+	   			 
+	   		}
+	   	}
+	}
+
+	 .img-overlay-content{
+	    opacity: 1;
+	    @include transition(opacity 0.5s 0.6s ease-in);
+
+	    h3{
+	    	opacity: 1;
+	    	@include transition(opacity 0.5s 0.6s ease-in);
+	    }
+
+	    span{
+	    	opacity: 1;
+	    	@include transition(opacity 0.5s 0.6s ease-in);
+	    }
+	}
+}
+
+}
+
+.homeflex{
+	.flex-direction-nav,
+	.flex-control-nav{
+		display: none;
+	}
+}

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>shop</title>
+<link href='https://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../assest/fonts/font.css" />
+	<link rel="stylesheet" href="../assest/sass/theme.css" />
+</head>
+<body class="theme_yellow theme_red">
+<!--Wrapper Starts Here-->
+<div class="wrapper">
+  <div class="overlaySkin">&nbsp;</div>
+  <!--Header Section Starts Here-->
+  <header id="header">
+    <div class="container">
+      <div class="headerInfo"> <a href="javascript:void(0)">David allen <span>Photographer Portfolio</span></a> </div>
+    </div>
+    <nav class="nav">
+      <ul>
+        <li class="current">
+          <a href="index.html"> 
+            <span class="genralScreen">Home</span> 
+            <span class="landingPageScreen">Welcome</span> 
+          </a>
+        </li>
+        <li><a href="about.html"> About </a>
+          <ul>
+            <li><a href="#">About me</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Latest Works </a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Stats</a></li>
+            <li><a href="#">Visits</a></li>
+            <li><a href="#">Testimonials</a></li>
+          </ul>
+        </li>
+        <li><a href="portfolio.html">Portfolio </a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="contact.html"> Contact</a></li>
+        <li><a href="#"> Timeline</a>
+          <ul>
+            <li><a href="#">Timeline</a></li>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Videos </a></li>
+            <li><a href="#">Photostream</a></li>
+            <li><a href="#">Galleries</a></li>
+            <li><a href="#">Organize</a></li>
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <!--Header Section Ends Here-->
+  <!--Content Area Starts Here-->
+   <div id="content">
+    <div class="toggleMenuContainer">
+      <div class="toggleMenu"><i class="fa fa-bars">&nbsp;</i></div>
+    </div>
+    <div class="contactWrapper">
+      <div class="container">
+        <div class="contact">
+          <div class="avatar text-center">
+            <img src="../assest/img/mobile-home-avatar.png" alt="" class="profilePic">
+            <a href="#">Contact Me</a>
+          </div>
+          <form>
+            <div>
+              <div>
+                <label for="FullName">Full name</label>
+                <input type="text" id="FullName">
+              </div>
+              <div>
+                <label for="Email">Email</label>
+                <input type="email" id="Email">
+              </div>
+              <div>
+                <label for="Phone">Phone</label>
+                <input type="tel" id="Phone">
+              </div>
+            </div>
+            <div>
+              <div>
+                <textarea placeholder="Designed And Developed By The SolidCode Team"></textarea>
+              </div>
+            </div>
+            <div>
+              <button type="reset"><span>Cancel</span></button>
+              <button type="submit"><span>Send</span></button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="mapWrapper">
+      <div class="customMap">
+        <figure class="userLocation"></figure>
+      </div>
+    </div>
+  </div>
+  <!--Content Area Ends Here-->
+  <!--Footer Section Starts Here-->
+  <footer id="footer"> <span> John Smith Photo Portfolio <small>&copy; All rights reserved </small></span> </footer>
+  <!--Footer Section Ends Here-->
+</div>
+<!--Wrapper Ends Here-->
+<script src="../assest/js/jquery.1.12.3.js"></script>
+<script>
+  $(document).ready(function(){
+    $('nav li a').click(function(){
+      alert('hi');
+    });
+  });
+</script>
+<script src="../assest/js/mapjs.js"></script>
+<script src="../assest/js/customMap.js"></script>
+<script src="../assest/js/custom.js"></script>
+
+</body>
+</html>

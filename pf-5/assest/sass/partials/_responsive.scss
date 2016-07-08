@@ -1,0 +1,175 @@
+@media(max-width:1025px){
+	/* home page */
+	.home{
+
+		@include background('../../img/tileBlue.jpg', 0 0 , no-repeat);
+		
+		header{
+			background-color: $black;
+			border: none;
+			border-bottom: solid 2px $white;
+			box-shadow: 0px 5px 5px rgba($black, 0.44);
+
+			.nav{
+				display: none;
+			}
+		}
+	}
+
+	header{
+
+		.headerInfo{
+				display: block;
+				float: none!important;
+				width: auto;
+				@include margin(0, -15px, 0, -15px);
+				max-width: none;
+				text-align: center;
+
+				a{
+					margin: 0 auto;
+				}
+		}
+
+		nav{
+			display: none;
+		}
+		
+	}
+	
+
+	.flexslider, .homeGallery{
+		display:none;
+	}
+
+	.mobileLandingSection, .toggleMenuContainer{
+		display:block;
+	}
+
+
+
+}
+
+@media(max-width: 768px){
+
+	h2 {
+		font-size:$size_9;
+	}
+	h3 {
+		font-size:$size_4;
+		line-height:1.5;
+	}
+	/* about us page */
+	.wrapper{
+		.category {
+			.category-box {
+				float: none;
+				width:100%;
+				padding:40px 20px;
+			}
+		}
+		.flex-direction-nav {
+			display: none;
+		}
+		.statistics {
+			> div {
+				> div {
+					width:100%;
+					float: none;
+					margin: 12px 0px;
+				}
+			}
+		}
+		.testimonial {
+			aside {
+				float: none;
+				width:100%;
+				padding:0px;
+			}
+		}
+		.socialMedia {
+			form {
+				> div {
+					* {
+						
+					}
+					button {
+						width:82px;
+					}
+					label {
+						display: none;
+					}
+					input {
+						width:calc(100% - 102px)
+					}
+				}
+			}
+		}
+		.subscription {
+			form {
+				> div {
+					input {
+						width:100%;
+					}
+				}
+			}
+		}
+		.about {
+			> div {
+				width:100%;
+				margin-left:0px;
+				margin-right:0px;
+			}
+			h2 {
+				font-size:30px;
+			}
+		}
+	}
+
+	/* portfolio page */
+
+	.portfolioTab  {
+		h2 {
+			font-size:48px;
+		}
+		ul {
+			margin:0px -4px;
+			width:100%;			
+			li {
+				display:block;
+				float:left;
+				margin:4px;
+				width: calc(50% - 8px);
+				img {
+					max-width:none;
+					width:100%;
+				}
+			}
+		}
+	}
+
+	.item-img-container{
+		.roll{
+			.img-overlay-content{
+				max-height: 523px;
+				overflow: scroll;
+
+				p{
+					display: none;
+				}
+			}
+		}
+	}
+
+	.contact form {
+		> div:first-child div {
+	    float: none;
+	    width: 100%;
+	    padding: 0px;
+	}
+	div:nth-child(2), div:nth-child(3){
+		padding: 0;
+	}
+
+	}
+}

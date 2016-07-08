@@ -1,0 +1,164 @@
+*{
+	@include box_size(border-box);
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: $white;
+	font-family: $font_1;
+	color: $grey1;
+	overflow-x: hidden;
+	font-size: $size_1;
+	line-height: normal;
+
+	@include position($relative);
+}
+
+h1, h2, h3, h4, h5, h6, h7{
+	font-weight: normal;
+	margin: 0;
+}
+
+h1{
+	font-size: $size_20;
+}
+
+h2{
+	font-size: $size_19;
+}
+
+h3{
+	font-size: $size_9;
+}
+
+h4{
+	font-size: $size_6;
+}
+
+h5{
+	font-size: $size_4;
+}
+
+h6{
+	font-size: $size_3;
+}
+
+ul, li{
+	list-style:none;
+	padding: 0;
+	margin:0;
+}
+
+a{
+	text-decoration: none;
+	color: $grey1;
+
+	&:hover, &:focus{
+		text-decoration: none;
+	}
+
+	img{
+		border: none;
+	}
+}
+
+img{
+	max-width: 100%;
+}
+
+/* custome extra classes */
+
+.pull-left{
+	float: left !important;
+}
+
+.pull-right{
+	float: right !important;
+}
+
+.pull-none{
+	float: none !important;
+}
+
+
+.text-center{
+	text-align: center;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.container-fluid, .container{
+	max-width: 1260px;
+	width: 100%;
+}
+
+.relative{
+	position: relative;
+}
+
+.absolute{
+	position: absolute;
+}
+
+.fixed{
+	position: fixed;
+}
+
+.static{
+	position:static
+}
+
+.block{
+	display: block;
+}
+
+.inline-block{
+	display: inline-block;
+}
+
+.inline{
+	display: inline;
+}
+
+.table{
+	display: table;
+}
+
+
+.button{
+	@include transition(all 0.3s ease-in-out);
+	@include position(relative);
+	@include padding(5px, 45px, 5px, 45px);
+	background: transparent;
+	font-size: 16px;
+	min-width: 92px;
+	@extend .inline-block;
+	cursor: pointer;
+	overflow: hidden;
+	color: $white;
+	border:solid 1px $black;
+}
+
+/* form elements */
+
+textarea, input[type="text"], input[type="password"] {
+    font-size: 14px;
+    line-height: 18px;
+    border: 1px solid $grey6;
+    color: rgba($black, 20);
+    width: 100%;
+   	height: 28px;
+    padding: 5px;
+    margin: 0px 0px 10px;
+}
+
+textarea{
+	 min-height: 150px;
+}
