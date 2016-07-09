@@ -51,6 +51,13 @@
 }
 
 @media(max-width: 768px){
+	header {
+		.headerInfo {
+			a {
+	   			font-size: 42px;
+			}
+		}
+	}
 
 	h2 {
 		font-size:$size_9;
@@ -123,6 +130,9 @@
 			h2 {
 				font-size:30px;
 			}
+			.graph-canvas{
+			    max-height: 250px;
+			}
 		}
 	}
 
@@ -145,6 +155,27 @@
 					width:100%;
 				}
 			}
+		}
+	}
+	.portfolioGallery {
+	    -webkit-columns: 1;
+	    -moz-columns: 1;
+	    -ms-columns: 1;
+	    -o-columns: 1;
+	    columns: 1;
+		> div{
+			padding: 15px;
+		}
+		.galleryDescription {
+			> div {
+    			padding: 10px;
+    		}
+    	}
+    	h3 {
+    		font-size: 12px;
+    	}
+    	p {
+		    font-size: 10px;
 		}
 	}
 

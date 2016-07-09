@@ -1,7 +1,8 @@
  header {
-	background-color: rgba($darken,0.85);
+	background-color: rgba($darken,85%);
 	border-bottom: 1px solid;
 	@extend .active-bordercolor;
+	@extend .active-bordercolor-bottom-op6;
 	text-align: center;
 	position:fixed;
 	left:0px;
@@ -36,7 +37,7 @@
 	position: relative;
 	z-index: 100;
 	display: inline-block;
-	@extend .activeopacity_0;
+	@extend .active-bg;
 	height:108px;
 	-moz-box-shadow: 1px 1px 20px rgba($lighten, 0.2) inset, 0 0 15px rgba($darken, 0.5);
 	-webkit-box-shadow: 1px 1px 20px rgba($lighten, 0.2) inset, 0 0 15px rgba($darken, 0.5);

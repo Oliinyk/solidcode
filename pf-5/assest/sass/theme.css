@@ -6294,9 +6294,9 @@ textarea {
 /* Themes */
 .theme_aqua .activetext, .theme_aqua .linkActionPrimary:hover, .theme_aqua .linkActionPrimary:focus, .theme_aqua .linkActionPrimary:active, .theme_aqua .linkActionTertiary:hover, .theme_aqua .linkActionTertiary:focus, .theme_aqua .linkActionTertiary:active, .theme_aqua header .currentPage, header .theme_aqua .currentPage, .theme_aqua .wrapper .about_profile-social > span, .wrapper .theme_aqua .about_profile-social > span, .theme_aqua .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_aqua .fa, .theme_aqua .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_aqua .fa, .theme_aqua .eventCalender > time > span > span, .theme_aqua .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_aqua .fa, .theme_aqua .eventContentToggler, .theme_aqua .testimonial > div a, .testimonial > div .theme_aqua a, .theme_aqua .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_aqua .fa:hover, .theme_aqua .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_aqua .fa:focus, .theme_aqua .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_aqua .fa:active, .theme_aqua .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_aqua .fa.fa-close, .theme_aqua .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_aqua .fa:hover, .theme_aqua .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_aqua .fa.active {
   color: #738d8a !important; }
-.theme_aqua .active-bg, .theme_aqua .linkActionSecondry:hover, .theme_aqua .scrollTop a:hover, .scrollTop .theme_aqua a:hover, .theme_aqua .eventCalender .editLink a:hover, .eventCalender .editLink .theme_aqua a:hover, .theme_aqua .linkActionSecondry:focus, .theme_aqua .scrollTop a:focus, .scrollTop .theme_aqua a:focus, .theme_aqua .eventCalender .editLink a:focus, .eventCalender .editLink .theme_aqua a:focus, .theme_aqua .linkActionSecondry:active, .theme_aqua .scrollTop a:active, .scrollTop .theme_aqua a:active, .theme_aqua .eventCalender .editLink a:active, .eventCalender .editLink .theme_aqua a:active, .theme_aqua .headingdeco span, .headingdeco .theme_aqua span, .theme_aqua button, .theme_aqua .scrollTop:before, .theme_aqua .subscription form > div label, .subscription form > div .theme_aqua label, .theme_aqua .subscription form > div button, .subscription form > div .theme_aqua button, .theme_aqua .flex-control-paging li a, .flex-control-paging li .theme_aqua a, .theme_aqua .item-img-container .roll .left div, .item-img-container .roll .left .theme_aqua div, .theme_aqua .item-img-container .roll .right div, .item-img-container .roll .right .theme_aqua div, .theme_aqua .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_aqua a.active, .theme_aqua .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_aqua span, .theme_aqua .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_aqua .category-box:hover, .theme_aqua .eventCalender, .theme_aqua .statistics span, .statistics .theme_aqua span, .theme_aqua .visitDataWrapper, .theme_aqua .eventStep-1 button, .eventStep-1 .theme_aqua button, .theme_aqua .newEventForm button, .newEventForm .theme_aqua button, .theme_aqua .graph, .theme_aqua .navigator ul li:after, .navigator ul .theme_aqua li:after, .theme_aqua .home .socialIcons li, .home .socialIcons .theme_aqua li, .theme_aqua .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_aqua .nav > ul > li > a.current {
+.theme_aqua .active-bg, .theme_aqua .linkActionSecondry:hover, .theme_aqua .scrollTop a:hover, .scrollTop .theme_aqua a:hover, .theme_aqua .eventCalender .editLink a:hover, .eventCalender .editLink .theme_aqua a:hover, .theme_aqua .linkActionSecondry:focus, .theme_aqua .scrollTop a:focus, .scrollTop .theme_aqua a:focus, .theme_aqua .eventCalender .editLink a:focus, .eventCalender .editLink .theme_aqua a:focus, .theme_aqua .linkActionSecondry:active, .theme_aqua .scrollTop a:active, .scrollTop .theme_aqua a:active, .theme_aqua .eventCalender .editLink a:active, .eventCalender .editLink .theme_aqua a:active, .theme_aqua .headingdeco span, .headingdeco .theme_aqua span, .theme_aqua button, .theme_aqua .scrollTop:before, .theme_aqua .subscription form > div label, .subscription form > div .theme_aqua label, .theme_aqua .subscription form > div button, .subscription form > div .theme_aqua button, .theme_aqua .flex-control-paging li a, .flex-control-paging li .theme_aqua a, .theme_aqua .headerInfo, .theme_aqua .item-img-container .roll .left div, .item-img-container .roll .left .theme_aqua div, .theme_aqua .item-img-container .roll .right div, .item-img-container .roll .right .theme_aqua div, .theme_aqua .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_aqua a.active, .theme_aqua .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_aqua span, .theme_aqua .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_aqua .category-box:hover, .theme_aqua .eventCalender, .theme_aqua .statistics span, .statistics .theme_aqua span, .theme_aqua .visitDataWrapper, .theme_aqua .eventStep-1 button, .eventStep-1 .theme_aqua button, .theme_aqua .newEventForm button, .newEventForm .theme_aqua button, .theme_aqua .graph, .theme_aqua .navigator ul li:after, .navigator ul .theme_aqua li:after, .theme_aqua .home .socialIcons li, .home .socialIcons .theme_aqua li, .theme_aqua .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_aqua .nav > ul > li > a.current {
   background-color: #738d8a !important; }
-.theme_aqua .active-bordercolor, .theme_aqua .flex-control-paging li a.flex-active, .flex-control-paging li .theme_aqua a.flex-active, .theme_aqua header, .theme_aqua .wrapper .about_profile-social > span, .wrapper .theme_aqua .about_profile-social > span, .theme_aqua .wrapper .about_Category .category-box, .wrapper .about_Category .theme_aqua .category-box, .theme_aqua .graphContainer, .theme_aqua .navigator ul li a span, .navigator ul li a .theme_aqua span, .theme_aqua .navigator ul li a.active, .navigator ul li .theme_aqua a.active, .theme_aqua .contact form button, .contact form .theme_aqua button {
+.theme_aqua .active-bordercolor, .theme_aqua .flex-control-paging li a.flex-active, .flex-control-paging li .theme_aqua a.flex-active, .theme_aqua header, .theme_aqua .wrapper .about_profile-social > span, .wrapper .theme_aqua .about_profile-social > span, .theme_aqua .wrapper .about_Category .category-box, .wrapper .about_Category .theme_aqua .category-box, .theme_aqua .graphContainer, .theme_aqua .navigator ul li a span, .navigator ul li a .theme_aqua span, .theme_aqua .navigator ul li a.active, .navigator ul li .theme_aqua a.active {
   border-color: #738d8a !important; }
   .theme_aqua .active-bordercolor-left {
     border-left-color: #738d8a !important; }
@@ -6308,9 +6308,9 @@ textarea {
     border-bottom-color: #738d8a !important; }
     .theme_aqua .active-bordercolor-bottom-op5, .theme_aqua .nav > ul > li:hover {
       border-bottom-color: rgba(115, 141, 138, 0.5) !important; }
-    .theme_aqua .active-bordercolor-bottom-op6, .theme_aqua .nav .current, .nav .theme_aqua .current {
+    .theme_aqua .active-bordercolor-bottom-op6, .theme_aqua header, .theme_aqua .nav .current, .nav .theme_aqua .current {
       border-bottom-color: rgba(115, 141, 138, 0.6) !important; }
-.theme_aqua .activeopacity_0, .theme_aqua .headerInfo {
+.theme_aqua .activeopacity_0 {
   background-color: rgba(115, 141, 138, 0) !important; }
 .theme_aqua .activeopacity_1 {
   background-color: rgba(115, 141, 138, 0.1) !important; }
@@ -6324,11 +6324,11 @@ textarea {
   background-color: rgba(115, 141, 138, 0.5) !important; }
 .theme_aqua .activeopacity_6 {
   background-color: rgba(115, 141, 138, 0.6) !important; }
-.theme_aqua .activeopacity_7, .theme_aqua .portfolioTab ul li span, .portfolioTab ul li .theme_aqua span, .theme_aqua .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_aqua .galleryDescription > div {
+.theme_aqua .activeopacity_7, .theme_aqua .portfolioTab ul li span, .portfolioTab ul li .theme_aqua span {
   background-color: rgba(115, 141, 138, 0.7) !important; }
 .theme_aqua .activeopacity_8 {
   background-color: rgba(115, 141, 138, 0.8) !important; }
-.theme_aqua .activeopacity_9, .theme_aqua .nav > ul > li > ul, .theme_aqua .userLocation:before {
+.theme_aqua .activeopacity_9, .theme_aqua .nav > ul > li > ul, .theme_aqua .portfolioTab ul li span:hover, .portfolioTab ul li .theme_aqua span:hover, .theme_aqua .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_aqua .galleryDescription > div, .theme_aqua .userLocation:before {
   background-color: rgba(115, 141, 138, 0.9) !important; }
 .theme_aqua .activeopacity_10 {
   background-color: #738d8a !important; }
@@ -6353,9 +6353,9 @@ textarea {
 
 .theme_blue .activetext, .theme_blue .linkActionPrimary:hover, .theme_blue .linkActionPrimary:focus, .theme_blue .linkActionPrimary:active, .theme_blue .linkActionTertiary:hover, .theme_blue .linkActionTertiary:focus, .theme_blue .linkActionTertiary:active, .theme_blue header .currentPage, header .theme_blue .currentPage, .theme_blue .wrapper .about_profile-social > span, .wrapper .theme_blue .about_profile-social > span, .theme_blue .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_blue .fa, .theme_blue .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_blue .fa, .theme_blue .eventCalender > time > span > span, .theme_blue .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_blue .fa, .theme_blue .eventContentToggler, .theme_blue .testimonial > div a, .testimonial > div .theme_blue a, .theme_blue .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_blue .fa:hover, .theme_blue .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_blue .fa:focus, .theme_blue .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_blue .fa:active, .theme_blue .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_blue .fa.fa-close, .theme_blue .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_blue .fa:hover, .theme_blue .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_blue .fa.active {
   color: #5867c3 !important; }
-.theme_blue .active-bg, .theme_blue .linkActionSecondry:hover, .theme_blue .scrollTop a:hover, .scrollTop .theme_blue a:hover, .theme_blue .eventCalender .editLink a:hover, .eventCalender .editLink .theme_blue a:hover, .theme_blue .linkActionSecondry:focus, .theme_blue .scrollTop a:focus, .scrollTop .theme_blue a:focus, .theme_blue .eventCalender .editLink a:focus, .eventCalender .editLink .theme_blue a:focus, .theme_blue .linkActionSecondry:active, .theme_blue .scrollTop a:active, .scrollTop .theme_blue a:active, .theme_blue .eventCalender .editLink a:active, .eventCalender .editLink .theme_blue a:active, .theme_blue .headingdeco span, .headingdeco .theme_blue span, .theme_blue button, .theme_blue .scrollTop:before, .theme_blue .subscription form > div label, .subscription form > div .theme_blue label, .theme_blue .subscription form > div button, .subscription form > div .theme_blue button, .theme_blue .flex-control-paging li a, .flex-control-paging li .theme_blue a, .theme_blue .item-img-container .roll .left div, .item-img-container .roll .left .theme_blue div, .theme_blue .item-img-container .roll .right div, .item-img-container .roll .right .theme_blue div, .theme_blue .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_blue a.active, .theme_blue .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_blue span, .theme_blue .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_blue .category-box:hover, .theme_blue .eventCalender, .theme_blue .statistics span, .statistics .theme_blue span, .theme_blue .visitDataWrapper, .theme_blue .eventStep-1 button, .eventStep-1 .theme_blue button, .theme_blue .newEventForm button, .newEventForm .theme_blue button, .theme_blue .graph, .theme_blue .navigator ul li:after, .navigator ul .theme_blue li:after, .theme_blue .home .socialIcons li, .home .socialIcons .theme_blue li, .theme_blue .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_blue .nav > ul > li > a.current {
+.theme_blue .active-bg, .theme_blue .linkActionSecondry:hover, .theme_blue .scrollTop a:hover, .scrollTop .theme_blue a:hover, .theme_blue .eventCalender .editLink a:hover, .eventCalender .editLink .theme_blue a:hover, .theme_blue .linkActionSecondry:focus, .theme_blue .scrollTop a:focus, .scrollTop .theme_blue a:focus, .theme_blue .eventCalender .editLink a:focus, .eventCalender .editLink .theme_blue a:focus, .theme_blue .linkActionSecondry:active, .theme_blue .scrollTop a:active, .scrollTop .theme_blue a:active, .theme_blue .eventCalender .editLink a:active, .eventCalender .editLink .theme_blue a:active, .theme_blue .headingdeco span, .headingdeco .theme_blue span, .theme_blue button, .theme_blue .scrollTop:before, .theme_blue .subscription form > div label, .subscription form > div .theme_blue label, .theme_blue .subscription form > div button, .subscription form > div .theme_blue button, .theme_blue .flex-control-paging li a, .flex-control-paging li .theme_blue a, .theme_blue .headerInfo, .theme_blue .item-img-container .roll .left div, .item-img-container .roll .left .theme_blue div, .theme_blue .item-img-container .roll .right div, .item-img-container .roll .right .theme_blue div, .theme_blue .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_blue a.active, .theme_blue .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_blue span, .theme_blue .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_blue .category-box:hover, .theme_blue .eventCalender, .theme_blue .statistics span, .statistics .theme_blue span, .theme_blue .visitDataWrapper, .theme_blue .eventStep-1 button, .eventStep-1 .theme_blue button, .theme_blue .newEventForm button, .newEventForm .theme_blue button, .theme_blue .graph, .theme_blue .navigator ul li:after, .navigator ul .theme_blue li:after, .theme_blue .home .socialIcons li, .home .socialIcons .theme_blue li, .theme_blue .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_blue .nav > ul > li > a.current {
   background-color: #5867c3 !important; }
-.theme_blue .active-bordercolor, .theme_blue .flex-control-paging li a.flex-active, .flex-control-paging li .theme_blue a.flex-active, .theme_blue header, .theme_blue .wrapper .about_profile-social > span, .wrapper .theme_blue .about_profile-social > span, .theme_blue .wrapper .about_Category .category-box, .wrapper .about_Category .theme_blue .category-box, .theme_blue .graphContainer, .theme_blue .navigator ul li a span, .navigator ul li a .theme_blue span, .theme_blue .navigator ul li a.active, .navigator ul li .theme_blue a.active, .theme_blue .contact form button, .contact form .theme_blue button {
+.theme_blue .active-bordercolor, .theme_blue .flex-control-paging li a.flex-active, .flex-control-paging li .theme_blue a.flex-active, .theme_blue header, .theme_blue .wrapper .about_profile-social > span, .wrapper .theme_blue .about_profile-social > span, .theme_blue .wrapper .about_Category .category-box, .wrapper .about_Category .theme_blue .category-box, .theme_blue .graphContainer, .theme_blue .navigator ul li a span, .navigator ul li a .theme_blue span, .theme_blue .navigator ul li a.active, .navigator ul li .theme_blue a.active {
   border-color: #5867c3 !important; }
   .theme_blue .active-bordercolor-left {
     border-left-color: #5867c3 !important; }
@@ -6367,9 +6367,9 @@ textarea {
     border-bottom-color: #5867c3 !important; }
     .theme_blue .active-bordercolor-bottom-op5, .theme_blue .nav > ul > li:hover {
       border-bottom-color: rgba(88, 103, 195, 0.5) !important; }
-    .theme_blue .active-bordercolor-bottom-op6, .theme_blue .nav .current, .nav .theme_blue .current {
+    .theme_blue .active-bordercolor-bottom-op6, .theme_blue header, .theme_blue .nav .current, .nav .theme_blue .current {
       border-bottom-color: rgba(88, 103, 195, 0.6) !important; }
-.theme_blue .activeopacity_0, .theme_blue .headerInfo {
+.theme_blue .activeopacity_0 {
   background-color: rgba(88, 103, 195, 0) !important; }
 .theme_blue .activeopacity_1 {
   background-color: rgba(88, 103, 195, 0.1) !important; }
@@ -6383,11 +6383,11 @@ textarea {
   background-color: rgba(88, 103, 195, 0.5) !important; }
 .theme_blue .activeopacity_6 {
   background-color: rgba(88, 103, 195, 0.6) !important; }
-.theme_blue .activeopacity_7, .theme_blue .portfolioTab ul li span, .portfolioTab ul li .theme_blue span, .theme_blue .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_blue .galleryDescription > div {
+.theme_blue .activeopacity_7, .theme_blue .portfolioTab ul li span, .portfolioTab ul li .theme_blue span {
   background-color: rgba(88, 103, 195, 0.7) !important; }
 .theme_blue .activeopacity_8 {
   background-color: rgba(88, 103, 195, 0.8) !important; }
-.theme_blue .activeopacity_9, .theme_blue .nav > ul > li > ul, .theme_blue .userLocation:before {
+.theme_blue .activeopacity_9, .theme_blue .nav > ul > li > ul, .theme_blue .portfolioTab ul li span:hover, .portfolioTab ul li .theme_blue span:hover, .theme_blue .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_blue .galleryDescription > div, .theme_blue .userLocation:before {
   background-color: rgba(88, 103, 195, 0.9) !important; }
 .theme_blue .activeopacity_10 {
   background-color: #5867c3 !important; }
@@ -6412,9 +6412,9 @@ textarea {
 
 .theme_green .activetext, .theme_green .linkActionPrimary:hover, .theme_green .linkActionPrimary:focus, .theme_green .linkActionPrimary:active, .theme_green .linkActionTertiary:hover, .theme_green .linkActionTertiary:focus, .theme_green .linkActionTertiary:active, .theme_green header .currentPage, header .theme_green .currentPage, .theme_green .wrapper .about_profile-social > span, .wrapper .theme_green .about_profile-social > span, .theme_green .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_green .fa, .theme_green .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_green .fa, .theme_green .eventCalender > time > span > span, .theme_green .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_green .fa, .theme_green .eventContentToggler, .theme_green .testimonial > div a, .testimonial > div .theme_green a, .theme_green .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_green .fa:hover, .theme_green .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_green .fa:focus, .theme_green .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_green .fa:active, .theme_green .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_green .fa.fa-close, .theme_green .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_green .fa:hover, .theme_green .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_green .fa.active {
   color: #a1d161 !important; }
-.theme_green .active-bg, .theme_green .linkActionSecondry:hover, .theme_green .scrollTop a:hover, .scrollTop .theme_green a:hover, .theme_green .eventCalender .editLink a:hover, .eventCalender .editLink .theme_green a:hover, .theme_green .linkActionSecondry:focus, .theme_green .scrollTop a:focus, .scrollTop .theme_green a:focus, .theme_green .eventCalender .editLink a:focus, .eventCalender .editLink .theme_green a:focus, .theme_green .linkActionSecondry:active, .theme_green .scrollTop a:active, .scrollTop .theme_green a:active, .theme_green .eventCalender .editLink a:active, .eventCalender .editLink .theme_green a:active, .theme_green .headingdeco span, .headingdeco .theme_green span, .theme_green button, .theme_green .scrollTop:before, .theme_green .subscription form > div label, .subscription form > div .theme_green label, .theme_green .subscription form > div button, .subscription form > div .theme_green button, .theme_green .flex-control-paging li a, .flex-control-paging li .theme_green a, .theme_green .item-img-container .roll .left div, .item-img-container .roll .left .theme_green div, .theme_green .item-img-container .roll .right div, .item-img-container .roll .right .theme_green div, .theme_green .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_green a.active, .theme_green .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_green span, .theme_green .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_green .category-box:hover, .theme_green .eventCalender, .theme_green .statistics span, .statistics .theme_green span, .theme_green .visitDataWrapper, .theme_green .eventStep-1 button, .eventStep-1 .theme_green button, .theme_green .newEventForm button, .newEventForm .theme_green button, .theme_green .graph, .theme_green .navigator ul li:after, .navigator ul .theme_green li:after, .theme_green .home .socialIcons li, .home .socialIcons .theme_green li, .theme_green .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_green .nav > ul > li > a.current {
+.theme_green .active-bg, .theme_green .linkActionSecondry:hover, .theme_green .scrollTop a:hover, .scrollTop .theme_green a:hover, .theme_green .eventCalender .editLink a:hover, .eventCalender .editLink .theme_green a:hover, .theme_green .linkActionSecondry:focus, .theme_green .scrollTop a:focus, .scrollTop .theme_green a:focus, .theme_green .eventCalender .editLink a:focus, .eventCalender .editLink .theme_green a:focus, .theme_green .linkActionSecondry:active, .theme_green .scrollTop a:active, .scrollTop .theme_green a:active, .theme_green .eventCalender .editLink a:active, .eventCalender .editLink .theme_green a:active, .theme_green .headingdeco span, .headingdeco .theme_green span, .theme_green button, .theme_green .scrollTop:before, .theme_green .subscription form > div label, .subscription form > div .theme_green label, .theme_green .subscription form > div button, .subscription form > div .theme_green button, .theme_green .flex-control-paging li a, .flex-control-paging li .theme_green a, .theme_green .headerInfo, .theme_green .item-img-container .roll .left div, .item-img-container .roll .left .theme_green div, .theme_green .item-img-container .roll .right div, .item-img-container .roll .right .theme_green div, .theme_green .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_green a.active, .theme_green .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_green span, .theme_green .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_green .category-box:hover, .theme_green .eventCalender, .theme_green .statistics span, .statistics .theme_green span, .theme_green .visitDataWrapper, .theme_green .eventStep-1 button, .eventStep-1 .theme_green button, .theme_green .newEventForm button, .newEventForm .theme_green button, .theme_green .graph, .theme_green .navigator ul li:after, .navigator ul .theme_green li:after, .theme_green .home .socialIcons li, .home .socialIcons .theme_green li, .theme_green .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_green .nav > ul > li > a.current {
   background-color: #a1d161 !important; }
-.theme_green .active-bordercolor, .theme_green .flex-control-paging li a.flex-active, .flex-control-paging li .theme_green a.flex-active, .theme_green header, .theme_green .wrapper .about_profile-social > span, .wrapper .theme_green .about_profile-social > span, .theme_green .wrapper .about_Category .category-box, .wrapper .about_Category .theme_green .category-box, .theme_green .graphContainer, .theme_green .navigator ul li a span, .navigator ul li a .theme_green span, .theme_green .navigator ul li a.active, .navigator ul li .theme_green a.active, .theme_green .contact form button, .contact form .theme_green button {
+.theme_green .active-bordercolor, .theme_green .flex-control-paging li a.flex-active, .flex-control-paging li .theme_green a.flex-active, .theme_green header, .theme_green .wrapper .about_profile-social > span, .wrapper .theme_green .about_profile-social > span, .theme_green .wrapper .about_Category .category-box, .wrapper .about_Category .theme_green .category-box, .theme_green .graphContainer, .theme_green .navigator ul li a span, .navigator ul li a .theme_green span, .theme_green .navigator ul li a.active, .navigator ul li .theme_green a.active {
   border-color: #a1d161 !important; }
   .theme_green .active-bordercolor-left {
     border-left-color: #a1d161 !important; }
@@ -6426,9 +6426,9 @@ textarea {
     border-bottom-color: #a1d161 !important; }
     .theme_green .active-bordercolor-bottom-op5, .theme_green .nav > ul > li:hover {
       border-bottom-color: rgba(161, 209, 97, 0.5) !important; }
-    .theme_green .active-bordercolor-bottom-op6, .theme_green .nav .current, .nav .theme_green .current {
+    .theme_green .active-bordercolor-bottom-op6, .theme_green header, .theme_green .nav .current, .nav .theme_green .current {
       border-bottom-color: rgba(161, 209, 97, 0.6) !important; }
-.theme_green .activeopacity_0, .theme_green .headerInfo {
+.theme_green .activeopacity_0 {
   background-color: rgba(161, 209, 97, 0) !important; }
 .theme_green .activeopacity_1 {
   background-color: rgba(161, 209, 97, 0.1) !important; }
@@ -6442,11 +6442,11 @@ textarea {
   background-color: rgba(161, 209, 97, 0.5) !important; }
 .theme_green .activeopacity_6 {
   background-color: rgba(161, 209, 97, 0.6) !important; }
-.theme_green .activeopacity_7, .theme_green .portfolioTab ul li span, .portfolioTab ul li .theme_green span, .theme_green .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_green .galleryDescription > div {
+.theme_green .activeopacity_7, .theme_green .portfolioTab ul li span, .portfolioTab ul li .theme_green span {
   background-color: rgba(161, 209, 97, 0.7) !important; }
 .theme_green .activeopacity_8 {
   background-color: rgba(161, 209, 97, 0.8) !important; }
-.theme_green .activeopacity_9, .theme_green .nav > ul > li > ul, .theme_green .userLocation:before {
+.theme_green .activeopacity_9, .theme_green .nav > ul > li > ul, .theme_green .portfolioTab ul li span:hover, .portfolioTab ul li .theme_green span:hover, .theme_green .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_green .galleryDescription > div, .theme_green .userLocation:before {
   background-color: rgba(161, 209, 97, 0.9) !important; }
 .theme_green .activeopacity_10 {
   background-color: #a1d161 !important; }
@@ -6471,9 +6471,9 @@ textarea {
 
 .theme_mint .activetext, .theme_mint .linkActionPrimary:hover, .theme_mint .linkActionPrimary:focus, .theme_mint .linkActionPrimary:active, .theme_mint .linkActionTertiary:hover, .theme_mint .linkActionTertiary:focus, .theme_mint .linkActionTertiary:active, .theme_mint header .currentPage, header .theme_mint .currentPage, .theme_mint .wrapper .about_profile-social > span, .wrapper .theme_mint .about_profile-social > span, .theme_mint .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_mint .fa, .theme_mint .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_mint .fa, .theme_mint .eventCalender > time > span > span, .theme_mint .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_mint .fa, .theme_mint .eventContentToggler, .theme_mint .testimonial > div a, .testimonial > div .theme_mint a, .theme_mint .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_mint .fa:hover, .theme_mint .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_mint .fa:focus, .theme_mint .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_mint .fa:active, .theme_mint .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_mint .fa.fa-close, .theme_mint .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_mint .fa:hover, .theme_mint .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_mint .fa.active {
   color: #dfdc01 !important; }
-.theme_mint .active-bg, .theme_mint .linkActionSecondry:hover, .theme_mint .scrollTop a:hover, .scrollTop .theme_mint a:hover, .theme_mint .eventCalender .editLink a:hover, .eventCalender .editLink .theme_mint a:hover, .theme_mint .linkActionSecondry:focus, .theme_mint .scrollTop a:focus, .scrollTop .theme_mint a:focus, .theme_mint .eventCalender .editLink a:focus, .eventCalender .editLink .theme_mint a:focus, .theme_mint .linkActionSecondry:active, .theme_mint .scrollTop a:active, .scrollTop .theme_mint a:active, .theme_mint .eventCalender .editLink a:active, .eventCalender .editLink .theme_mint a:active, .theme_mint .headingdeco span, .headingdeco .theme_mint span, .theme_mint button, .theme_mint .scrollTop:before, .theme_mint .subscription form > div label, .subscription form > div .theme_mint label, .theme_mint .subscription form > div button, .subscription form > div .theme_mint button, .theme_mint .flex-control-paging li a, .flex-control-paging li .theme_mint a, .theme_mint .item-img-container .roll .left div, .item-img-container .roll .left .theme_mint div, .theme_mint .item-img-container .roll .right div, .item-img-container .roll .right .theme_mint div, .theme_mint .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_mint a.active, .theme_mint .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_mint span, .theme_mint .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_mint .category-box:hover, .theme_mint .eventCalender, .theme_mint .statistics span, .statistics .theme_mint span, .theme_mint .visitDataWrapper, .theme_mint .eventStep-1 button, .eventStep-1 .theme_mint button, .theme_mint .newEventForm button, .newEventForm .theme_mint button, .theme_mint .graph, .theme_mint .navigator ul li:after, .navigator ul .theme_mint li:after, .theme_mint .home .socialIcons li, .home .socialIcons .theme_mint li, .theme_mint .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_mint .nav > ul > li > a.current {
+.theme_mint .active-bg, .theme_mint .linkActionSecondry:hover, .theme_mint .scrollTop a:hover, .scrollTop .theme_mint a:hover, .theme_mint .eventCalender .editLink a:hover, .eventCalender .editLink .theme_mint a:hover, .theme_mint .linkActionSecondry:focus, .theme_mint .scrollTop a:focus, .scrollTop .theme_mint a:focus, .theme_mint .eventCalender .editLink a:focus, .eventCalender .editLink .theme_mint a:focus, .theme_mint .linkActionSecondry:active, .theme_mint .scrollTop a:active, .scrollTop .theme_mint a:active, .theme_mint .eventCalender .editLink a:active, .eventCalender .editLink .theme_mint a:active, .theme_mint .headingdeco span, .headingdeco .theme_mint span, .theme_mint button, .theme_mint .scrollTop:before, .theme_mint .subscription form > div label, .subscription form > div .theme_mint label, .theme_mint .subscription form > div button, .subscription form > div .theme_mint button, .theme_mint .flex-control-paging li a, .flex-control-paging li .theme_mint a, .theme_mint .headerInfo, .theme_mint .item-img-container .roll .left div, .item-img-container .roll .left .theme_mint div, .theme_mint .item-img-container .roll .right div, .item-img-container .roll .right .theme_mint div, .theme_mint .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_mint a.active, .theme_mint .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_mint span, .theme_mint .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_mint .category-box:hover, .theme_mint .eventCalender, .theme_mint .statistics span, .statistics .theme_mint span, .theme_mint .visitDataWrapper, .theme_mint .eventStep-1 button, .eventStep-1 .theme_mint button, .theme_mint .newEventForm button, .newEventForm .theme_mint button, .theme_mint .graph, .theme_mint .navigator ul li:after, .navigator ul .theme_mint li:after, .theme_mint .home .socialIcons li, .home .socialIcons .theme_mint li, .theme_mint .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_mint .nav > ul > li > a.current {
   background-color: #dfdc01 !important; }
-.theme_mint .active-bordercolor, .theme_mint .flex-control-paging li a.flex-active, .flex-control-paging li .theme_mint a.flex-active, .theme_mint header, .theme_mint .wrapper .about_profile-social > span, .wrapper .theme_mint .about_profile-social > span, .theme_mint .wrapper .about_Category .category-box, .wrapper .about_Category .theme_mint .category-box, .theme_mint .graphContainer, .theme_mint .navigator ul li a span, .navigator ul li a .theme_mint span, .theme_mint .navigator ul li a.active, .navigator ul li .theme_mint a.active, .theme_mint .contact form button, .contact form .theme_mint button {
+.theme_mint .active-bordercolor, .theme_mint .flex-control-paging li a.flex-active, .flex-control-paging li .theme_mint a.flex-active, .theme_mint header, .theme_mint .wrapper .about_profile-social > span, .wrapper .theme_mint .about_profile-social > span, .theme_mint .wrapper .about_Category .category-box, .wrapper .about_Category .theme_mint .category-box, .theme_mint .graphContainer, .theme_mint .navigator ul li a span, .navigator ul li a .theme_mint span, .theme_mint .navigator ul li a.active, .navigator ul li .theme_mint a.active {
   border-color: #dfdc01 !important; }
   .theme_mint .active-bordercolor-left {
     border-left-color: #dfdc01 !important; }
@@ -6485,9 +6485,9 @@ textarea {
     border-bottom-color: #dfdc01 !important; }
     .theme_mint .active-bordercolor-bottom-op5, .theme_mint .nav > ul > li:hover {
       border-bottom-color: rgba(223, 220, 1, 0.5) !important; }
-    .theme_mint .active-bordercolor-bottom-op6, .theme_mint .nav .current, .nav .theme_mint .current {
+    .theme_mint .active-bordercolor-bottom-op6, .theme_mint header, .theme_mint .nav .current, .nav .theme_mint .current {
       border-bottom-color: rgba(223, 220, 1, 0.6) !important; }
-.theme_mint .activeopacity_0, .theme_mint .headerInfo {
+.theme_mint .activeopacity_0 {
   background-color: rgba(223, 220, 1, 0) !important; }
 .theme_mint .activeopacity_1 {
   background-color: rgba(223, 220, 1, 0.1) !important; }
@@ -6501,11 +6501,11 @@ textarea {
   background-color: rgba(223, 220, 1, 0.5) !important; }
 .theme_mint .activeopacity_6 {
   background-color: rgba(223, 220, 1, 0.6) !important; }
-.theme_mint .activeopacity_7, .theme_mint .portfolioTab ul li span, .portfolioTab ul li .theme_mint span, .theme_mint .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_mint .galleryDescription > div {
+.theme_mint .activeopacity_7, .theme_mint .portfolioTab ul li span, .portfolioTab ul li .theme_mint span {
   background-color: rgba(223, 220, 1, 0.7) !important; }
 .theme_mint .activeopacity_8 {
   background-color: rgba(223, 220, 1, 0.8) !important; }
-.theme_mint .activeopacity_9, .theme_mint .nav > ul > li > ul, .theme_mint .userLocation:before {
+.theme_mint .activeopacity_9, .theme_mint .nav > ul > li > ul, .theme_mint .portfolioTab ul li span:hover, .portfolioTab ul li .theme_mint span:hover, .theme_mint .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_mint .galleryDescription > div, .theme_mint .userLocation:before {
   background-color: rgba(223, 220, 1, 0.9) !important; }
 .theme_mint .activeopacity_10 {
   background-color: #dfdc01 !important; }
@@ -6530,9 +6530,9 @@ textarea {
 
 .theme_mono .activetext, .theme_mono .linkActionPrimary:hover, .theme_mono .linkActionPrimary:focus, .theme_mono .linkActionPrimary:active, .theme_mono .linkActionTertiary:hover, .theme_mono .linkActionTertiary:focus, .theme_mono .linkActionTertiary:active, .theme_mono header .currentPage, header .theme_mono .currentPage, .theme_mono .wrapper .about_profile-social > span, .wrapper .theme_mono .about_profile-social > span, .theme_mono .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_mono .fa, .theme_mono .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_mono .fa, .theme_mono .eventCalender > time > span > span, .theme_mono .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_mono .fa, .theme_mono .eventContentToggler, .theme_mono .testimonial > div a, .testimonial > div .theme_mono a, .theme_mono .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_mono .fa:hover, .theme_mono .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_mono .fa:focus, .theme_mono .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_mono .fa:active, .theme_mono .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_mono .fa.fa-close, .theme_mono .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_mono .fa:hover, .theme_mono .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_mono .fa.active {
   color: #e9e9e9 !important; }
-.theme_mono .active-bg, .theme_mono .linkActionSecondry:hover, .theme_mono .scrollTop a:hover, .scrollTop .theme_mono a:hover, .theme_mono .eventCalender .editLink a:hover, .eventCalender .editLink .theme_mono a:hover, .theme_mono .linkActionSecondry:focus, .theme_mono .scrollTop a:focus, .scrollTop .theme_mono a:focus, .theme_mono .eventCalender .editLink a:focus, .eventCalender .editLink .theme_mono a:focus, .theme_mono .linkActionSecondry:active, .theme_mono .scrollTop a:active, .scrollTop .theme_mono a:active, .theme_mono .eventCalender .editLink a:active, .eventCalender .editLink .theme_mono a:active, .theme_mono .headingdeco span, .headingdeco .theme_mono span, .theme_mono button, .theme_mono .scrollTop:before, .theme_mono .subscription form > div label, .subscription form > div .theme_mono label, .theme_mono .subscription form > div button, .subscription form > div .theme_mono button, .theme_mono .flex-control-paging li a, .flex-control-paging li .theme_mono a, .theme_mono .item-img-container .roll .left div, .item-img-container .roll .left .theme_mono div, .theme_mono .item-img-container .roll .right div, .item-img-container .roll .right .theme_mono div, .theme_mono .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_mono a.active, .theme_mono .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_mono span, .theme_mono .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_mono .category-box:hover, .theme_mono .eventCalender, .theme_mono .statistics span, .statistics .theme_mono span, .theme_mono .visitDataWrapper, .theme_mono .eventStep-1 button, .eventStep-1 .theme_mono button, .theme_mono .newEventForm button, .newEventForm .theme_mono button, .theme_mono .graph, .theme_mono .navigator ul li:after, .navigator ul .theme_mono li:after, .theme_mono .home .socialIcons li, .home .socialIcons .theme_mono li, .theme_mono .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_mono .nav > ul > li > a.current {
+.theme_mono .active-bg, .theme_mono .linkActionSecondry:hover, .theme_mono .scrollTop a:hover, .scrollTop .theme_mono a:hover, .theme_mono .eventCalender .editLink a:hover, .eventCalender .editLink .theme_mono a:hover, .theme_mono .linkActionSecondry:focus, .theme_mono .scrollTop a:focus, .scrollTop .theme_mono a:focus, .theme_mono .eventCalender .editLink a:focus, .eventCalender .editLink .theme_mono a:focus, .theme_mono .linkActionSecondry:active, .theme_mono .scrollTop a:active, .scrollTop .theme_mono a:active, .theme_mono .eventCalender .editLink a:active, .eventCalender .editLink .theme_mono a:active, .theme_mono .headingdeco span, .headingdeco .theme_mono span, .theme_mono button, .theme_mono .scrollTop:before, .theme_mono .subscription form > div label, .subscription form > div .theme_mono label, .theme_mono .subscription form > div button, .subscription form > div .theme_mono button, .theme_mono .flex-control-paging li a, .flex-control-paging li .theme_mono a, .theme_mono .headerInfo, .theme_mono .item-img-container .roll .left div, .item-img-container .roll .left .theme_mono div, .theme_mono .item-img-container .roll .right div, .item-img-container .roll .right .theme_mono div, .theme_mono .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_mono a.active, .theme_mono .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_mono span, .theme_mono .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_mono .category-box:hover, .theme_mono .eventCalender, .theme_mono .statistics span, .statistics .theme_mono span, .theme_mono .visitDataWrapper, .theme_mono .eventStep-1 button, .eventStep-1 .theme_mono button, .theme_mono .newEventForm button, .newEventForm .theme_mono button, .theme_mono .graph, .theme_mono .navigator ul li:after, .navigator ul .theme_mono li:after, .theme_mono .home .socialIcons li, .home .socialIcons .theme_mono li, .theme_mono .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_mono .nav > ul > li > a.current {
   background-color: #e9e9e9 !important; }
-.theme_mono .active-bordercolor, .theme_mono .flex-control-paging li a.flex-active, .flex-control-paging li .theme_mono a.flex-active, .theme_mono header, .theme_mono .wrapper .about_profile-social > span, .wrapper .theme_mono .about_profile-social > span, .theme_mono .wrapper .about_Category .category-box, .wrapper .about_Category .theme_mono .category-box, .theme_mono .graphContainer, .theme_mono .navigator ul li a span, .navigator ul li a .theme_mono span, .theme_mono .navigator ul li a.active, .navigator ul li .theme_mono a.active, .theme_mono .contact form button, .contact form .theme_mono button {
+.theme_mono .active-bordercolor, .theme_mono .flex-control-paging li a.flex-active, .flex-control-paging li .theme_mono a.flex-active, .theme_mono header, .theme_mono .wrapper .about_profile-social > span, .wrapper .theme_mono .about_profile-social > span, .theme_mono .wrapper .about_Category .category-box, .wrapper .about_Category .theme_mono .category-box, .theme_mono .graphContainer, .theme_mono .navigator ul li a span, .navigator ul li a .theme_mono span, .theme_mono .navigator ul li a.active, .navigator ul li .theme_mono a.active {
   border-color: #e9e9e9 !important; }
   .theme_mono .active-bordercolor-left {
     border-left-color: #e9e9e9 !important; }
@@ -6544,9 +6544,9 @@ textarea {
     border-bottom-color: #e9e9e9 !important; }
     .theme_mono .active-bordercolor-bottom-op5, .theme_mono .nav > ul > li:hover {
       border-bottom-color: rgba(233, 233, 233, 0.5) !important; }
-    .theme_mono .active-bordercolor-bottom-op6, .theme_mono .nav .current, .nav .theme_mono .current {
+    .theme_mono .active-bordercolor-bottom-op6, .theme_mono header, .theme_mono .nav .current, .nav .theme_mono .current {
       border-bottom-color: rgba(233, 233, 233, 0.6) !important; }
-.theme_mono .activeopacity_0, .theme_mono .headerInfo {
+.theme_mono .activeopacity_0 {
   background-color: rgba(233, 233, 233, 0) !important; }
 .theme_mono .activeopacity_1 {
   background-color: rgba(233, 233, 233, 0.1) !important; }
@@ -6560,11 +6560,11 @@ textarea {
   background-color: rgba(233, 233, 233, 0.5) !important; }
 .theme_mono .activeopacity_6 {
   background-color: rgba(233, 233, 233, 0.6) !important; }
-.theme_mono .activeopacity_7, .theme_mono .portfolioTab ul li span, .portfolioTab ul li .theme_mono span, .theme_mono .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_mono .galleryDescription > div {
+.theme_mono .activeopacity_7, .theme_mono .portfolioTab ul li span, .portfolioTab ul li .theme_mono span {
   background-color: rgba(233, 233, 233, 0.7) !important; }
 .theme_mono .activeopacity_8 {
   background-color: rgba(233, 233, 233, 0.8) !important; }
-.theme_mono .activeopacity_9, .theme_mono .nav > ul > li > ul, .theme_mono .userLocation:before {
+.theme_mono .activeopacity_9, .theme_mono .nav > ul > li > ul, .theme_mono .portfolioTab ul li span:hover, .portfolioTab ul li .theme_mono span:hover, .theme_mono .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_mono .galleryDescription > div, .theme_mono .userLocation:before {
   background-color: rgba(233, 233, 233, 0.9) !important; }
 .theme_mono .activeopacity_10 {
   background-color: #e9e9e9 !important; }
@@ -6589,9 +6589,9 @@ textarea {
 
 .theme_orange .activetext, .theme_orange .linkActionPrimary:hover, .theme_orange .linkActionPrimary:focus, .theme_orange .linkActionPrimary:active, .theme_orange .linkActionTertiary:hover, .theme_orange .linkActionTertiary:focus, .theme_orange .linkActionTertiary:active, .theme_orange header .currentPage, header .theme_orange .currentPage, .theme_orange .wrapper .about_profile-social > span, .wrapper .theme_orange .about_profile-social > span, .theme_orange .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_orange .fa, .theme_orange .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_orange .fa, .theme_orange .eventCalender > time > span > span, .theme_orange .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_orange .fa, .theme_orange .eventContentToggler, .theme_orange .testimonial > div a, .testimonial > div .theme_orange a, .theme_orange .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_orange .fa:hover, .theme_orange .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_orange .fa:focus, .theme_orange .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_orange .fa:active, .theme_orange .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_orange .fa.fa-close, .theme_orange .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_orange .fa:hover, .theme_orange .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_orange .fa.active {
   color: #f0ac12 !important; }
-.theme_orange .active-bg, .theme_orange .linkActionSecondry:hover, .theme_orange .scrollTop a:hover, .scrollTop .theme_orange a:hover, .theme_orange .eventCalender .editLink a:hover, .eventCalender .editLink .theme_orange a:hover, .theme_orange .linkActionSecondry:focus, .theme_orange .scrollTop a:focus, .scrollTop .theme_orange a:focus, .theme_orange .eventCalender .editLink a:focus, .eventCalender .editLink .theme_orange a:focus, .theme_orange .linkActionSecondry:active, .theme_orange .scrollTop a:active, .scrollTop .theme_orange a:active, .theme_orange .eventCalender .editLink a:active, .eventCalender .editLink .theme_orange a:active, .theme_orange .headingdeco span, .headingdeco .theme_orange span, .theme_orange button, .theme_orange .scrollTop:before, .theme_orange .subscription form > div label, .subscription form > div .theme_orange label, .theme_orange .subscription form > div button, .subscription form > div .theme_orange button, .theme_orange .flex-control-paging li a, .flex-control-paging li .theme_orange a, .theme_orange .item-img-container .roll .left div, .item-img-container .roll .left .theme_orange div, .theme_orange .item-img-container .roll .right div, .item-img-container .roll .right .theme_orange div, .theme_orange .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_orange a.active, .theme_orange .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_orange span, .theme_orange .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_orange .category-box:hover, .theme_orange .eventCalender, .theme_orange .statistics span, .statistics .theme_orange span, .theme_orange .visitDataWrapper, .theme_orange .eventStep-1 button, .eventStep-1 .theme_orange button, .theme_orange .newEventForm button, .newEventForm .theme_orange button, .theme_orange .graph, .theme_orange .navigator ul li:after, .navigator ul .theme_orange li:after, .theme_orange .home .socialIcons li, .home .socialIcons .theme_orange li, .theme_orange .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_orange .nav > ul > li > a.current {
+.theme_orange .active-bg, .theme_orange .linkActionSecondry:hover, .theme_orange .scrollTop a:hover, .scrollTop .theme_orange a:hover, .theme_orange .eventCalender .editLink a:hover, .eventCalender .editLink .theme_orange a:hover, .theme_orange .linkActionSecondry:focus, .theme_orange .scrollTop a:focus, .scrollTop .theme_orange a:focus, .theme_orange .eventCalender .editLink a:focus, .eventCalender .editLink .theme_orange a:focus, .theme_orange .linkActionSecondry:active, .theme_orange .scrollTop a:active, .scrollTop .theme_orange a:active, .theme_orange .eventCalender .editLink a:active, .eventCalender .editLink .theme_orange a:active, .theme_orange .headingdeco span, .headingdeco .theme_orange span, .theme_orange button, .theme_orange .scrollTop:before, .theme_orange .subscription form > div label, .subscription form > div .theme_orange label, .theme_orange .subscription form > div button, .subscription form > div .theme_orange button, .theme_orange .flex-control-paging li a, .flex-control-paging li .theme_orange a, .theme_orange .headerInfo, .theme_orange .item-img-container .roll .left div, .item-img-container .roll .left .theme_orange div, .theme_orange .item-img-container .roll .right div, .item-img-container .roll .right .theme_orange div, .theme_orange .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_orange a.active, .theme_orange .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_orange span, .theme_orange .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_orange .category-box:hover, .theme_orange .eventCalender, .theme_orange .statistics span, .statistics .theme_orange span, .theme_orange .visitDataWrapper, .theme_orange .eventStep-1 button, .eventStep-1 .theme_orange button, .theme_orange .newEventForm button, .newEventForm .theme_orange button, .theme_orange .graph, .theme_orange .navigator ul li:after, .navigator ul .theme_orange li:after, .theme_orange .home .socialIcons li, .home .socialIcons .theme_orange li, .theme_orange .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_orange .nav > ul > li > a.current {
   background-color: #f0ac12 !important; }
-.theme_orange .active-bordercolor, .theme_orange .flex-control-paging li a.flex-active, .flex-control-paging li .theme_orange a.flex-active, .theme_orange header, .theme_orange .wrapper .about_profile-social > span, .wrapper .theme_orange .about_profile-social > span, .theme_orange .wrapper .about_Category .category-box, .wrapper .about_Category .theme_orange .category-box, .theme_orange .graphContainer, .theme_orange .navigator ul li a span, .navigator ul li a .theme_orange span, .theme_orange .navigator ul li a.active, .navigator ul li .theme_orange a.active, .theme_orange .contact form button, .contact form .theme_orange button {
+.theme_orange .active-bordercolor, .theme_orange .flex-control-paging li a.flex-active, .flex-control-paging li .theme_orange a.flex-active, .theme_orange header, .theme_orange .wrapper .about_profile-social > span, .wrapper .theme_orange .about_profile-social > span, .theme_orange .wrapper .about_Category .category-box, .wrapper .about_Category .theme_orange .category-box, .theme_orange .graphContainer, .theme_orange .navigator ul li a span, .navigator ul li a .theme_orange span, .theme_orange .navigator ul li a.active, .navigator ul li .theme_orange a.active {
   border-color: #f0ac12 !important; }
   .theme_orange .active-bordercolor-left {
     border-left-color: #f0ac12 !important; }
@@ -6603,9 +6603,9 @@ textarea {
     border-bottom-color: #f0ac12 !important; }
     .theme_orange .active-bordercolor-bottom-op5, .theme_orange .nav > ul > li:hover {
       border-bottom-color: rgba(240, 172, 18, 0.5) !important; }
-    .theme_orange .active-bordercolor-bottom-op6, .theme_orange .nav .current, .nav .theme_orange .current {
+    .theme_orange .active-bordercolor-bottom-op6, .theme_orange header, .theme_orange .nav .current, .nav .theme_orange .current {
       border-bottom-color: rgba(240, 172, 18, 0.6) !important; }
-.theme_orange .activeopacity_0, .theme_orange .headerInfo {
+.theme_orange .activeopacity_0 {
   background-color: rgba(240, 172, 18, 0) !important; }
 .theme_orange .activeopacity_1 {
   background-color: rgba(240, 172, 18, 0.1) !important; }
@@ -6619,11 +6619,11 @@ textarea {
   background-color: rgba(240, 172, 18, 0.5) !important; }
 .theme_orange .activeopacity_6 {
   background-color: rgba(240, 172, 18, 0.6) !important; }
-.theme_orange .activeopacity_7, .theme_orange .portfolioTab ul li span, .portfolioTab ul li .theme_orange span, .theme_orange .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_orange .galleryDescription > div {
+.theme_orange .activeopacity_7, .theme_orange .portfolioTab ul li span, .portfolioTab ul li .theme_orange span {
   background-color: rgba(240, 172, 18, 0.7) !important; }
 .theme_orange .activeopacity_8 {
   background-color: rgba(240, 172, 18, 0.8) !important; }
-.theme_orange .activeopacity_9, .theme_orange .nav > ul > li > ul, .theme_orange .userLocation:before {
+.theme_orange .activeopacity_9, .theme_orange .nav > ul > li > ul, .theme_orange .portfolioTab ul li span:hover, .portfolioTab ul li .theme_orange span:hover, .theme_orange .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_orange .galleryDescription > div, .theme_orange .userLocation:before {
   background-color: rgba(240, 172, 18, 0.9) !important; }
 .theme_orange .activeopacity_10 {
   background-color: #f0ac12 !important; }
@@ -6648,9 +6648,9 @@ textarea {
 
 .theme_purple .activetext, .theme_purple .linkActionPrimary:hover, .theme_purple .linkActionPrimary:focus, .theme_purple .linkActionPrimary:active, .theme_purple .linkActionTertiary:hover, .theme_purple .linkActionTertiary:focus, .theme_purple .linkActionTertiary:active, .theme_purple header .currentPage, header .theme_purple .currentPage, .theme_purple .wrapper .about_profile-social > span, .wrapper .theme_purple .about_profile-social > span, .theme_purple .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_purple .fa, .theme_purple .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_purple .fa, .theme_purple .eventCalender > time > span > span, .theme_purple .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_purple .fa, .theme_purple .eventContentToggler, .theme_purple .testimonial > div a, .testimonial > div .theme_purple a, .theme_purple .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_purple .fa:hover, .theme_purple .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_purple .fa:focus, .theme_purple .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_purple .fa:active, .theme_purple .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_purple .fa.fa-close, .theme_purple .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_purple .fa:hover, .theme_purple .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_purple .fa.active {
   color: #9f61f1 !important; }
-.theme_purple .active-bg, .theme_purple .linkActionSecondry:hover, .theme_purple .scrollTop a:hover, .scrollTop .theme_purple a:hover, .theme_purple .eventCalender .editLink a:hover, .eventCalender .editLink .theme_purple a:hover, .theme_purple .linkActionSecondry:focus, .theme_purple .scrollTop a:focus, .scrollTop .theme_purple a:focus, .theme_purple .eventCalender .editLink a:focus, .eventCalender .editLink .theme_purple a:focus, .theme_purple .linkActionSecondry:active, .theme_purple .scrollTop a:active, .scrollTop .theme_purple a:active, .theme_purple .eventCalender .editLink a:active, .eventCalender .editLink .theme_purple a:active, .theme_purple .headingdeco span, .headingdeco .theme_purple span, .theme_purple button, .theme_purple .scrollTop:before, .theme_purple .subscription form > div label, .subscription form > div .theme_purple label, .theme_purple .subscription form > div button, .subscription form > div .theme_purple button, .theme_purple .flex-control-paging li a, .flex-control-paging li .theme_purple a, .theme_purple .item-img-container .roll .left div, .item-img-container .roll .left .theme_purple div, .theme_purple .item-img-container .roll .right div, .item-img-container .roll .right .theme_purple div, .theme_purple .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_purple a.active, .theme_purple .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_purple span, .theme_purple .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_purple .category-box:hover, .theme_purple .eventCalender, .theme_purple .statistics span, .statistics .theme_purple span, .theme_purple .visitDataWrapper, .theme_purple .eventStep-1 button, .eventStep-1 .theme_purple button, .theme_purple .newEventForm button, .newEventForm .theme_purple button, .theme_purple .graph, .theme_purple .navigator ul li:after, .navigator ul .theme_purple li:after, .theme_purple .home .socialIcons li, .home .socialIcons .theme_purple li, .theme_purple .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_purple .nav > ul > li > a.current {
+.theme_purple .active-bg, .theme_purple .linkActionSecondry:hover, .theme_purple .scrollTop a:hover, .scrollTop .theme_purple a:hover, .theme_purple .eventCalender .editLink a:hover, .eventCalender .editLink .theme_purple a:hover, .theme_purple .linkActionSecondry:focus, .theme_purple .scrollTop a:focus, .scrollTop .theme_purple a:focus, .theme_purple .eventCalender .editLink a:focus, .eventCalender .editLink .theme_purple a:focus, .theme_purple .linkActionSecondry:active, .theme_purple .scrollTop a:active, .scrollTop .theme_purple a:active, .theme_purple .eventCalender .editLink a:active, .eventCalender .editLink .theme_purple a:active, .theme_purple .headingdeco span, .headingdeco .theme_purple span, .theme_purple button, .theme_purple .scrollTop:before, .theme_purple .subscription form > div label, .subscription form > div .theme_purple label, .theme_purple .subscription form > div button, .subscription form > div .theme_purple button, .theme_purple .flex-control-paging li a, .flex-control-paging li .theme_purple a, .theme_purple .headerInfo, .theme_purple .item-img-container .roll .left div, .item-img-container .roll .left .theme_purple div, .theme_purple .item-img-container .roll .right div, .item-img-container .roll .right .theme_purple div, .theme_purple .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_purple a.active, .theme_purple .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_purple span, .theme_purple .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_purple .category-box:hover, .theme_purple .eventCalender, .theme_purple .statistics span, .statistics .theme_purple span, .theme_purple .visitDataWrapper, .theme_purple .eventStep-1 button, .eventStep-1 .theme_purple button, .theme_purple .newEventForm button, .newEventForm .theme_purple button, .theme_purple .graph, .theme_purple .navigator ul li:after, .navigator ul .theme_purple li:after, .theme_purple .home .socialIcons li, .home .socialIcons .theme_purple li, .theme_purple .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_purple .nav > ul > li > a.current {
   background-color: #9f61f1 !important; }
-.theme_purple .active-bordercolor, .theme_purple .flex-control-paging li a.flex-active, .flex-control-paging li .theme_purple a.flex-active, .theme_purple header, .theme_purple .wrapper .about_profile-social > span, .wrapper .theme_purple .about_profile-social > span, .theme_purple .wrapper .about_Category .category-box, .wrapper .about_Category .theme_purple .category-box, .theme_purple .graphContainer, .theme_purple .navigator ul li a span, .navigator ul li a .theme_purple span, .theme_purple .navigator ul li a.active, .navigator ul li .theme_purple a.active, .theme_purple .contact form button, .contact form .theme_purple button {
+.theme_purple .active-bordercolor, .theme_purple .flex-control-paging li a.flex-active, .flex-control-paging li .theme_purple a.flex-active, .theme_purple header, .theme_purple .wrapper .about_profile-social > span, .wrapper .theme_purple .about_profile-social > span, .theme_purple .wrapper .about_Category .category-box, .wrapper .about_Category .theme_purple .category-box, .theme_purple .graphContainer, .theme_purple .navigator ul li a span, .navigator ul li a .theme_purple span, .theme_purple .navigator ul li a.active, .navigator ul li .theme_purple a.active {
   border-color: #9f61f1 !important; }
   .theme_purple .active-bordercolor-left {
     border-left-color: #9f61f1 !important; }
@@ -6662,9 +6662,9 @@ textarea {
     border-bottom-color: #9f61f1 !important; }
     .theme_purple .active-bordercolor-bottom-op5, .theme_purple .nav > ul > li:hover {
       border-bottom-color: rgba(159, 97, 241, 0.5) !important; }
-    .theme_purple .active-bordercolor-bottom-op6, .theme_purple .nav .current, .nav .theme_purple .current {
+    .theme_purple .active-bordercolor-bottom-op6, .theme_purple header, .theme_purple .nav .current, .nav .theme_purple .current {
       border-bottom-color: rgba(159, 97, 241, 0.6) !important; }
-.theme_purple .activeopacity_0, .theme_purple .headerInfo {
+.theme_purple .activeopacity_0 {
   background-color: rgba(159, 97, 241, 0) !important; }
 .theme_purple .activeopacity_1 {
   background-color: rgba(159, 97, 241, 0.1) !important; }
@@ -6678,11 +6678,11 @@ textarea {
   background-color: rgba(159, 97, 241, 0.5) !important; }
 .theme_purple .activeopacity_6 {
   background-color: rgba(159, 97, 241, 0.6) !important; }
-.theme_purple .activeopacity_7, .theme_purple .portfolioTab ul li span, .portfolioTab ul li .theme_purple span, .theme_purple .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_purple .galleryDescription > div {
+.theme_purple .activeopacity_7, .theme_purple .portfolioTab ul li span, .portfolioTab ul li .theme_purple span {
   background-color: rgba(159, 97, 241, 0.7) !important; }
 .theme_purple .activeopacity_8 {
   background-color: rgba(159, 97, 241, 0.8) !important; }
-.theme_purple .activeopacity_9, .theme_purple .nav > ul > li > ul, .theme_purple .userLocation:before {
+.theme_purple .activeopacity_9, .theme_purple .nav > ul > li > ul, .theme_purple .portfolioTab ul li span:hover, .portfolioTab ul li .theme_purple span:hover, .theme_purple .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_purple .galleryDescription > div, .theme_purple .userLocation:before {
   background-color: rgba(159, 97, 241, 0.9) !important; }
 .theme_purple .activeopacity_10 {
   background-color: #9f61f1 !important; }
@@ -6707,9 +6707,9 @@ textarea {
 
 .theme_red .activetext, .theme_red .linkActionPrimary:hover, .theme_red .linkActionPrimary:focus, .theme_red .linkActionPrimary:active, .theme_red .linkActionTertiary:hover, .theme_red .linkActionTertiary:focus, .theme_red .linkActionTertiary:active, .theme_red header .currentPage, header .theme_red .currentPage, .theme_red .wrapper .about_profile-social > span, .wrapper .theme_red .about_profile-social > span, .theme_red .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_red .fa, .theme_red .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_red .fa, .theme_red .eventCalender > time > span > span, .theme_red .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_red .fa, .theme_red .eventContentToggler, .theme_red .testimonial > div a, .testimonial > div .theme_red a, .theme_red .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_red .fa:hover, .theme_red .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_red .fa:focus, .theme_red .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_red .fa:active, .theme_red .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_red .fa.fa-close, .theme_red .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_red .fa:hover, .theme_red .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_red .fa.active {
   color: #e34d27 !important; }
-.theme_red .active-bg, .theme_red .linkActionSecondry:hover, .theme_red .scrollTop a:hover, .scrollTop .theme_red a:hover, .theme_red .eventCalender .editLink a:hover, .eventCalender .editLink .theme_red a:hover, .theme_red .linkActionSecondry:focus, .theme_red .scrollTop a:focus, .scrollTop .theme_red a:focus, .theme_red .eventCalender .editLink a:focus, .eventCalender .editLink .theme_red a:focus, .theme_red .linkActionSecondry:active, .theme_red .scrollTop a:active, .scrollTop .theme_red a:active, .theme_red .eventCalender .editLink a:active, .eventCalender .editLink .theme_red a:active, .theme_red .headingdeco span, .headingdeco .theme_red span, .theme_red button, .theme_red .scrollTop:before, .theme_red .subscription form > div label, .subscription form > div .theme_red label, .theme_red .subscription form > div button, .subscription form > div .theme_red button, .theme_red .flex-control-paging li a, .flex-control-paging li .theme_red a, .theme_red .item-img-container .roll .left div, .item-img-container .roll .left .theme_red div, .theme_red .item-img-container .roll .right div, .item-img-container .roll .right .theme_red div, .theme_red .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_red a.active, .theme_red .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_red span, .theme_red .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_red .category-box:hover, .theme_red .eventCalender, .theme_red .statistics span, .statistics .theme_red span, .theme_red .visitDataWrapper, .theme_red .eventStep-1 button, .eventStep-1 .theme_red button, .theme_red .newEventForm button, .newEventForm .theme_red button, .theme_red .graph, .theme_red .navigator ul li:after, .navigator ul .theme_red li:after, .theme_red .home .socialIcons li, .home .socialIcons .theme_red li, .theme_red .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_red .nav > ul > li > a.current {
+.theme_red .active-bg, .theme_red .linkActionSecondry:hover, .theme_red .scrollTop a:hover, .scrollTop .theme_red a:hover, .theme_red .eventCalender .editLink a:hover, .eventCalender .editLink .theme_red a:hover, .theme_red .linkActionSecondry:focus, .theme_red .scrollTop a:focus, .scrollTop .theme_red a:focus, .theme_red .eventCalender .editLink a:focus, .eventCalender .editLink .theme_red a:focus, .theme_red .linkActionSecondry:active, .theme_red .scrollTop a:active, .scrollTop .theme_red a:active, .theme_red .eventCalender .editLink a:active, .eventCalender .editLink .theme_red a:active, .theme_red .headingdeco span, .headingdeco .theme_red span, .theme_red button, .theme_red .scrollTop:before, .theme_red .subscription form > div label, .subscription form > div .theme_red label, .theme_red .subscription form > div button, .subscription form > div .theme_red button, .theme_red .flex-control-paging li a, .flex-control-paging li .theme_red a, .theme_red .headerInfo, .theme_red .item-img-container .roll .left div, .item-img-container .roll .left .theme_red div, .theme_red .item-img-container .roll .right div, .item-img-container .roll .right .theme_red div, .theme_red .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_red a.active, .theme_red .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_red span, .theme_red .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_red .category-box:hover, .theme_red .eventCalender, .theme_red .statistics span, .statistics .theme_red span, .theme_red .visitDataWrapper, .theme_red .eventStep-1 button, .eventStep-1 .theme_red button, .theme_red .newEventForm button, .newEventForm .theme_red button, .theme_red .graph, .theme_red .navigator ul li:after, .navigator ul .theme_red li:after, .theme_red .home .socialIcons li, .home .socialIcons .theme_red li, .theme_red .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_red .nav > ul > li > a.current {
   background-color: #e34d27 !important; }
-.theme_red .active-bordercolor, .theme_red .flex-control-paging li a.flex-active, .flex-control-paging li .theme_red a.flex-active, .theme_red header, .theme_red .wrapper .about_profile-social > span, .wrapper .theme_red .about_profile-social > span, .theme_red .wrapper .about_Category .category-box, .wrapper .about_Category .theme_red .category-box, .theme_red .graphContainer, .theme_red .navigator ul li a span, .navigator ul li a .theme_red span, .theme_red .navigator ul li a.active, .navigator ul li .theme_red a.active, .theme_red .contact form button, .contact form .theme_red button {
+.theme_red .active-bordercolor, .theme_red .flex-control-paging li a.flex-active, .flex-control-paging li .theme_red a.flex-active, .theme_red header, .theme_red .wrapper .about_profile-social > span, .wrapper .theme_red .about_profile-social > span, .theme_red .wrapper .about_Category .category-box, .wrapper .about_Category .theme_red .category-box, .theme_red .graphContainer, .theme_red .navigator ul li a span, .navigator ul li a .theme_red span, .theme_red .navigator ul li a.active, .navigator ul li .theme_red a.active {
   border-color: #e34d27 !important; }
   .theme_red .active-bordercolor-left {
     border-left-color: #e34d27 !important; }
@@ -6721,9 +6721,9 @@ textarea {
     border-bottom-color: #e34d27 !important; }
     .theme_red .active-bordercolor-bottom-op5, .theme_red .nav > ul > li:hover {
       border-bottom-color: rgba(227, 77, 39, 0.5) !important; }
-    .theme_red .active-bordercolor-bottom-op6, .theme_red .nav .current, .nav .theme_red .current {
+    .theme_red .active-bordercolor-bottom-op6, .theme_red header, .theme_red .nav .current, .nav .theme_red .current {
       border-bottom-color: rgba(227, 77, 39, 0.6) !important; }
-.theme_red .activeopacity_0, .theme_red .headerInfo {
+.theme_red .activeopacity_0 {
   background-color: rgba(227, 77, 39, 0) !important; }
 .theme_red .activeopacity_1 {
   background-color: rgba(227, 77, 39, 0.1) !important; }
@@ -6737,11 +6737,11 @@ textarea {
   background-color: rgba(227, 77, 39, 0.5) !important; }
 .theme_red .activeopacity_6 {
   background-color: rgba(227, 77, 39, 0.6) !important; }
-.theme_red .activeopacity_7, .theme_red .portfolioTab ul li span, .portfolioTab ul li .theme_red span, .theme_red .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_red .galleryDescription > div {
+.theme_red .activeopacity_7, .theme_red .portfolioTab ul li span, .portfolioTab ul li .theme_red span {
   background-color: rgba(227, 77, 39, 0.7) !important; }
 .theme_red .activeopacity_8 {
   background-color: rgba(227, 77, 39, 0.8) !important; }
-.theme_red .activeopacity_9, .theme_red .nav > ul > li > ul, .theme_red .userLocation:before {
+.theme_red .activeopacity_9, .theme_red .nav > ul > li > ul, .theme_red .portfolioTab ul li span:hover, .portfolioTab ul li .theme_red span:hover, .theme_red .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_red .galleryDescription > div, .theme_red .userLocation:before {
   background-color: rgba(227, 77, 39, 0.9) !important; }
 .theme_red .activeopacity_10 {
   background-color: #e34d27 !important; }
@@ -6766,9 +6766,9 @@ textarea {
 
 .theme_yellow .activetext, .theme_yellow .linkActionPrimary:hover, .theme_yellow .linkActionPrimary:focus, .theme_yellow .linkActionPrimary:active, .theme_yellow .linkActionTertiary:hover, .theme_yellow .linkActionTertiary:focus, .theme_yellow .linkActionTertiary:active, .theme_yellow header .currentPage, header .theme_yellow .currentPage, .theme_yellow .wrapper .about_profile-social > span, .wrapper .theme_yellow .about_profile-social > span, .theme_yellow .wrapper .about_profile .animatedAngle .fa, .wrapper .about_profile .animatedAngle .theme_yellow .fa, .theme_yellow .wrapper .about_Category .category-box .fa, .wrapper .about_Category .category-box .theme_yellow .fa, .theme_yellow .eventCalender > time > span > span, .theme_yellow .eventCalender > time > span > span .fa, .eventCalender > time > span > span .theme_yellow .fa, .theme_yellow .eventContentToggler, .theme_yellow .testimonial > div a, .testimonial > div .theme_yellow a, .theme_yellow .home .socialIcons li a .fa:hover, .home .socialIcons li a .theme_yellow .fa:hover, .theme_yellow .home .socialIcons li a .fa:focus, .home .socialIcons li a .theme_yellow .fa:focus, .theme_yellow .home .socialIcons li a .fa:active, .home .socialIcons li a .theme_yellow .fa:active, .theme_yellow .toggleMenuContainer .toggleMenu .fa.fa-close, .toggleMenuContainer .toggleMenu .theme_yellow .fa.fa-close, .theme_yellow .toggleMenuContainer .toggleMenu .fa:hover, .toggleMenuContainer .toggleMenu .theme_yellow .fa:hover, .theme_yellow .toggleMenuContainer .toggleMenu .fa.active, .toggleMenuContainer .toggleMenu .theme_yellow .fa.active {
   color: #bfae67 !important; }
-.theme_yellow .active-bg, .theme_yellow .linkActionSecondry:hover, .theme_yellow .scrollTop a:hover, .scrollTop .theme_yellow a:hover, .theme_yellow .eventCalender .editLink a:hover, .eventCalender .editLink .theme_yellow a:hover, .theme_yellow .linkActionSecondry:focus, .theme_yellow .scrollTop a:focus, .scrollTop .theme_yellow a:focus, .theme_yellow .eventCalender .editLink a:focus, .eventCalender .editLink .theme_yellow a:focus, .theme_yellow .linkActionSecondry:active, .theme_yellow .scrollTop a:active, .scrollTop .theme_yellow a:active, .theme_yellow .eventCalender .editLink a:active, .eventCalender .editLink .theme_yellow a:active, .theme_yellow .headingdeco span, .headingdeco .theme_yellow span, .theme_yellow button, .theme_yellow .scrollTop:before, .theme_yellow .subscription form > div label, .subscription form > div .theme_yellow label, .theme_yellow .subscription form > div button, .subscription form > div .theme_yellow button, .theme_yellow .flex-control-paging li a, .flex-control-paging li .theme_yellow a, .theme_yellow .item-img-container .roll .left div, .item-img-container .roll .left .theme_yellow div, .theme_yellow .item-img-container .roll .right div, .item-img-container .roll .right .theme_yellow div, .theme_yellow .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_yellow a.active, .theme_yellow .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_yellow span, .theme_yellow .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_yellow .category-box:hover, .theme_yellow .eventCalender, .theme_yellow .statistics span, .statistics .theme_yellow span, .theme_yellow .visitDataWrapper, .theme_yellow .eventStep-1 button, .eventStep-1 .theme_yellow button, .theme_yellow .newEventForm button, .newEventForm .theme_yellow button, .theme_yellow .graph, .theme_yellow .navigator ul li:after, .navigator ul .theme_yellow li:after, .theme_yellow .home .socialIcons li, .home .socialIcons .theme_yellow li, .theme_yellow .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_yellow .nav > ul > li > a.current {
+.theme_yellow .active-bg, .theme_yellow .linkActionSecondry:hover, .theme_yellow .scrollTop a:hover, .scrollTop .theme_yellow a:hover, .theme_yellow .eventCalender .editLink a:hover, .eventCalender .editLink .theme_yellow a:hover, .theme_yellow .linkActionSecondry:focus, .theme_yellow .scrollTop a:focus, .scrollTop .theme_yellow a:focus, .theme_yellow .eventCalender .editLink a:focus, .eventCalender .editLink .theme_yellow a:focus, .theme_yellow .linkActionSecondry:active, .theme_yellow .scrollTop a:active, .scrollTop .theme_yellow a:active, .theme_yellow .eventCalender .editLink a:active, .eventCalender .editLink .theme_yellow a:active, .theme_yellow .headingdeco span, .headingdeco .theme_yellow span, .theme_yellow button, .theme_yellow .scrollTop:before, .theme_yellow .subscription form > div label, .subscription form > div .theme_yellow label, .theme_yellow .subscription form > div button, .subscription form > div .theme_yellow button, .theme_yellow .flex-control-paging li a, .flex-control-paging li .theme_yellow a, .theme_yellow .headerInfo, .theme_yellow .item-img-container .roll .left div, .item-img-container .roll .left .theme_yellow div, .theme_yellow .item-img-container .roll .right div, .item-img-container .roll .right .theme_yellow div, .theme_yellow .wrapper .about_profile-social > ul > li a.active, .wrapper .about_profile-social > ul > li .theme_yellow a.active, .theme_yellow .wrapper .about_profile-social > ul > li span, .wrapper .about_profile-social > ul > li .theme_yellow span, .theme_yellow .wrapper .about_Category .category-box:hover, .wrapper .about_Category .theme_yellow .category-box:hover, .theme_yellow .eventCalender, .theme_yellow .statistics span, .statistics .theme_yellow span, .theme_yellow .visitDataWrapper, .theme_yellow .eventStep-1 button, .eventStep-1 .theme_yellow button, .theme_yellow .newEventForm button, .newEventForm .theme_yellow button, .theme_yellow .graph, .theme_yellow .navigator ul li:after, .navigator ul .theme_yellow li:after, .theme_yellow .home .socialIcons li, .home .socialIcons .theme_yellow li, .theme_yellow .toggleMenuContainer .nav > ul > li > a.current, .toggleMenuContainer .theme_yellow .nav > ul > li > a.current {
   background-color: #bfae67 !important; }
-.theme_yellow .active-bordercolor, .theme_yellow .flex-control-paging li a.flex-active, .flex-control-paging li .theme_yellow a.flex-active, .theme_yellow header, .theme_yellow .wrapper .about_profile-social > span, .wrapper .theme_yellow .about_profile-social > span, .theme_yellow .wrapper .about_Category .category-box, .wrapper .about_Category .theme_yellow .category-box, .theme_yellow .graphContainer, .theme_yellow .navigator ul li a span, .navigator ul li a .theme_yellow span, .theme_yellow .navigator ul li a.active, .navigator ul li .theme_yellow a.active, .theme_yellow .contact form button, .contact form .theme_yellow button {
+.theme_yellow .active-bordercolor, .theme_yellow .flex-control-paging li a.flex-active, .flex-control-paging li .theme_yellow a.flex-active, .theme_yellow header, .theme_yellow .wrapper .about_profile-social > span, .wrapper .theme_yellow .about_profile-social > span, .theme_yellow .wrapper .about_Category .category-box, .wrapper .about_Category .theme_yellow .category-box, .theme_yellow .graphContainer, .theme_yellow .navigator ul li a span, .navigator ul li a .theme_yellow span, .theme_yellow .navigator ul li a.active, .navigator ul li .theme_yellow a.active {
   border-color: #bfae67 !important; }
   .theme_yellow .active-bordercolor-left {
     border-left-color: #bfae67 !important; }
@@ -6780,9 +6780,9 @@ textarea {
     border-bottom-color: #bfae67 !important; }
     .theme_yellow .active-bordercolor-bottom-op5, .theme_yellow .nav > ul > li:hover {
       border-bottom-color: rgba(191, 174, 103, 0.5) !important; }
-    .theme_yellow .active-bordercolor-bottom-op6, .theme_yellow .nav .current, .nav .theme_yellow .current {
+    .theme_yellow .active-bordercolor-bottom-op6, .theme_yellow header, .theme_yellow .nav .current, .nav .theme_yellow .current {
       border-bottom-color: rgba(191, 174, 103, 0.6) !important; }
-.theme_yellow .activeopacity_0, .theme_yellow .headerInfo {
+.theme_yellow .activeopacity_0 {
   background-color: rgba(191, 174, 103, 0) !important; }
 .theme_yellow .activeopacity_1 {
   background-color: rgba(191, 174, 103, 0.1) !important; }
@@ -6796,11 +6796,11 @@ textarea {
   background-color: rgba(191, 174, 103, 0.5) !important; }
 .theme_yellow .activeopacity_6 {
   background-color: rgba(191, 174, 103, 0.6) !important; }
-.theme_yellow .activeopacity_7, .theme_yellow .portfolioTab ul li span, .portfolioTab ul li .theme_yellow span, .theme_yellow .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_yellow .galleryDescription > div {
+.theme_yellow .activeopacity_7, .theme_yellow .portfolioTab ul li span, .portfolioTab ul li .theme_yellow span {
   background-color: rgba(191, 174, 103, 0.7) !important; }
 .theme_yellow .activeopacity_8 {
   background-color: rgba(191, 174, 103, 0.8) !important; }
-.theme_yellow .activeopacity_9, .theme_yellow .nav > ul > li > ul, .theme_yellow .userLocation:before {
+.theme_yellow .activeopacity_9, .theme_yellow .nav > ul > li > ul, .theme_yellow .portfolioTab ul li span:hover, .portfolioTab ul li .theme_yellow span:hover, .theme_yellow .portfolioGallery .galleryDescription > div, .portfolioGallery .theme_yellow .galleryDescription > div, .theme_yellow .userLocation:before {
   background-color: rgba(191, 174, 103, 0.9) !important; }
 .theme_yellow .activeopacity_10 {
   background-color: #bfae67 !important; }
@@ -7342,7 +7342,7 @@ button.close {
   right: 72px; }
 
 header {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: black;
   border-bottom: 1px solid;
   text-align: center;
   position: fixed;
@@ -7734,7 +7734,7 @@ header {
   .wrapper #content {
     position: relative;
     padding-top: 108px;
-    padding-bottom: 48px;
+    padding-bottom: 200px;
     padding-left: 0;
     padding-right: 0px; }
   .wrapper .portfoliocontent#content {
@@ -8460,10 +8460,11 @@ header {
   .portfolioTab ul {
     display: inline-block;
     text-align: center;
-    padding: 48px 0px 12px; }
+    padding: 60px 0px 20px; }
     .portfolioTab ul li {
       display: inline-block;
-      background-color: rgba(255, 255, 255, 0.5);
+      background-color: rgba(255, 255, 255, 0.75);
+      border: 1px solid #fff;
       padding: 10px;
       margin-right: 20px;
       position: relative;
@@ -8497,9 +8498,9 @@ header {
 
 .tabContent {
   width: 100%;
-  padding: 48px 0px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-top: 1px solid rgba(255, 255, 255, 0.7);
+  padding: 55px 0px;
+  background-color: black;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
   padding-bottom: 200px;
   margin-bottom: -200px; }
   .tabContent section {
@@ -8508,7 +8509,10 @@ header {
     display: block; }
   .tabContent h2 {
     font-family: "robotothin", Arial, Helvetica, Sans-Serif;
-    font-size: 72px; }
+    font-size: 72px;
+    padding-bottom: 25px; }
+  .tabContent p {
+    color: rgba(255, 255, 255, 0.5); }
 
 .portfolioGallery {
   -webkit-columns: 2;
@@ -8516,7 +8520,7 @@ header {
   -ms-columns: 2;
   -o-columns: 2;
   columns: 2;
-  margin-top: 48px; }
+  margin-top: 25px; }
   .portfolioGallery > div {
     background-color: #525252;
     margin-bottom: 20px;
@@ -8561,10 +8565,10 @@ header {
       top: 0px;
       border: 1px solid #000; }
   .portfolioGallery h3 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 700; }
   .portfolioGallery p {
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
     text-align: center; }
 
@@ -8721,13 +8725,13 @@ header {
       height: 160px;
       padding: 15px;
       margin-top: 16px;
-      border: 1px solid #444;
+      border: 1px solid #fff;
       line-height: 20px;
       resize: none;
       color: #505050;
       font-family: "robotomedium", Arial, Helvetica, Sans-Serif;
       color: #fff;
-      background: #151515; }
+      background: rgba(21, 21, 21, 0); }
     .contact form button {
       border: 1px solid;
       font-size: 16px;
@@ -8735,12 +8739,14 @@ header {
       line-height: 30px;
       margin: 15px 10px 0 0;
       min-width: 92px;
-      font-weight: 700; }
+      font-weight: 700;
+      min-width: 168px;
+      border: 1px solid #fff; }
     .contact form div:first-child div {
       width: 33.33%;
       float: left;
       padding: 0px 15px;
-      margin-bottom: 30px; }
+      margin-bottom: 0; }
       .contact form div:first-child div * {
         display: block;
         width: 100%;
@@ -8758,14 +8764,14 @@ header {
     margin-left: 8px; }
 
 .contactWrapper {
-  margin-top: 85px;
+  margin-top: 0;
   margin-bottom: 0px;
   margin-left: 15px;
   margin-right: 15px;
   width: calc(100% - 30px);
-  padding: 30px 0px; }
+  padding: 0px; }
   .contactWrapper .container {
-    background-color: rgba(21, 21, 21, 0.8);
+    background-color: rgba(21, 21, 21, 0);
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 15px;
@@ -8791,7 +8797,7 @@ header {
 Footer Section
 ========================================================================*/
 #footer {
-  background: #fff;
+  background: #1c1c1c;
   border-top: 1px solid;
   color: #555555;
   font-size: 14px;
@@ -8802,9 +8808,11 @@ Footer Section
   padding-right: 0;
   position: relative;
   width: 100%; }
-  #footer span small {
-    font-size: 12px;
-    padding-top: 5px; }
+  #footer span {
+    color: rgba(255, 255, 255, 0.5); }
+    #footer span small {
+      font-size: 12px;
+      padding-top: 5px; }
 
 /* responsive styles */
 /* mobile css */
@@ -9006,6 +9014,9 @@ Footer Section
   .mobileLandingSection, .toggleMenuContainer {
     display: block; } }
 @media (max-width: 768px) {
+  header .headerInfo a {
+    font-size: 42px; }
+
   h2 {
     font-size: 30px; }
 
@@ -9042,6 +9053,8 @@ Footer Section
     margin-right: 0px; }
   .wrapper .about h2 {
     font-size: 30px; }
+  .wrapper .about .graph-canvas {
+    max-height: 250px; }
 
   /* portfolio page */
   .portfolioTab h2 {
@@ -9057,6 +9070,21 @@ Footer Section
       .portfolioTab ul li img {
         max-width: none;
         width: 100%; }
+
+  .portfolioGallery {
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    -ms-columns: 1;
+    -o-columns: 1;
+    columns: 1; }
+    .portfolioGallery > div {
+      padding: 15px; }
+    .portfolioGallery .galleryDescription > div {
+      padding: 10px; }
+    .portfolioGallery h3 {
+      font-size: 12px; }
+    .portfolioGallery p {
+      font-size: 10px; }
 
   .item-img-container .roll .img-overlay-content {
     max-height: 523px;

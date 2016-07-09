@@ -27,24 +27,25 @@
 			height:160px;
 			padding:15px;
 			margin-top:16px;
-			border:1px solid $grey10;
+			border:1px solid $white;
 			line-height:20px;
 			resize:none;
 			color:lighten(saturate(adjust-hue($darken, 0.0000), 0.0000), 31.3725);
 			font-family:$font_1;
 			color: $white;
-			background: $grey9;
+			background: rgba($grey9,0);
 		}
 		button {
 			border: 1px solid;
-			@extend .active-bordercolor;
+			// @extend .active-bordercolor;
 			font-size: 16px;
 			height: 36px;
 			line-height:30px;
 			margin: 15px 10px 0 0;
 			min-width: 92px;
 			font-weight:700;
-
+		    min-width: 168px;
+		    border:1px solid $white;
 		}
 		margin-top:50px;
 		div:first-child {
@@ -52,7 +53,7 @@
 				width:33.33%;
 				float:left;
 				padding:0px 15px;
-				margin-bottom:30px;
+				margin-bottom:0;
 				* {
 					display:block;
 					width:100%;
@@ -82,12 +83,12 @@
 }
 
 .contactWrapper {
-	@include margin(85px, 15px, 0px, 15px);
+	@include margin(0, 15px, 0px, 15px);
 	width:calc(100% - 30px);
-	padding:30px 0px;
+	padding: 0px;
 	
 	.container{
-		background-color:rgba($grey9, 0.8);
+		background-color:rgba($grey9, 0);
 		@include padding(30px, 15px, 30px, 15px);
 	}
 }

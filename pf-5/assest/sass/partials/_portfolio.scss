@@ -3,10 +3,11 @@
 	ul {
 		display:inline-block;
 		text-align:center;
-		padding:48px 0px 12px;
+		padding:60px 0px 20px;
 		li {
 			display:inline-block;
-			background-color:rgba($lighten,0.5);
+			background-color:rgba($lighten,0.75);
+			border:1px solid $white;
 			padding:10px;
 			margin-right:20px;
 			position:relative;
@@ -34,6 +35,9 @@
 				align-items: center;
 				justify-content: center;
 			}
+			span:hover {
+				@extend .activeopacity_9;
+			}
 		}
 		li.active {
 			span {
@@ -44,9 +48,9 @@
 }
 .tabContent {
 	width:100%;
-	padding:48px 0px;
-	background-color:rgba($darken,0.5);
-	border-top:1px solid rgba($lighten,0.7);
+	padding:55px 0px;
+	background-color:rgba($darken,1);
+	border-top:1px solid rgba($lighten,0.5);
 	padding-bottom:200px;
 	margin-bottom:-200px;
 	section {
@@ -58,11 +62,15 @@
 	h2 {
 		font-family: $font_2;
 		font-size:72px;
+	    padding-bottom: 25px;
+	}
+	p{
+		color:rgba($white,0.5)
 	}
 }
 .portfolioGallery {
 	@include columnCount(2);
-	margin-top:48px;
+	margin-top:25px;
 	> div {
 		background-color:lighten(saturate(adjust-hue($darken, 0.0000), 0.0000), 32.1569);
 		margin-bottom:20px;
@@ -94,7 +102,7 @@
 		> div {
 			padding:42px;
 			opacity:0;
-			@extend .activeopacity_7;
+			@extend .activeopacity_9;
 			height:100%;
 			text-overflow: ellipsis;			
 		}
@@ -109,11 +117,11 @@
 		}
 	}
 	h3 {
-		font-size:24px;
+		font-size:18px;
 		font-weight:700;
 	}
 	p {	
-		font-size:12px;
+		font-size:14px;
 		color: $lighten;
 		text-align: center;
 	}

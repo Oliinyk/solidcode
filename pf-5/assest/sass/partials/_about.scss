@@ -27,7 +27,7 @@
 
     #content {
 		@include position(relative);
-		@include padding(108px, 0px, 48px, 0);
+		@include padding(108px, 0px, 200px, 0);
 	}
 	.portfoliocontent#content{
 		@include padding(0, 0px, 48px, 0);
